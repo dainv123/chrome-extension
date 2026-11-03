@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "Sentence IPA · VN",
+  "version": "1.11.3",
+  "description": "Sentence IPA for work: EN↔VN, IPA, Web Speech / Azure TTS, AI deep-dive links.",
+  "permissions": ["contextMenus", "activeTab", "storage"],
+  "host_permissions": [
+    "https://clients5.google.com/*",
+    "https://translate.googleapis.com/*",
+    "https://*.tts.speech.microsoft.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["ipa-rules.js", "ipa-lib.js", "ipa-link.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "vendor/phonemizer.js",
+        "lexicon.json",
+        "data/lexicon.cmu.json",
+        "styles.css",
+        "guide.html"
+      ],
+      "matches": ["http://*/*", "https://*/*"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_title": "Sentence IPA · VN",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+    }
+  }
+}

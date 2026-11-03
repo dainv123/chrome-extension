@@ -1,0 +1,137 @@
+:root {
+  color-scheme: light;
+  --bg: #f4f7fb;
+  --ink: #0f172a;
+  --muted: #64748b;
+  --line: #dbe3ee;
+  --panel: #ffffff;
+  --accent: #1d4ed8;
+  --accent-ink: #eff6ff;
+  --ok: #047857;
+  --error: #b91c1c;
+  --added: #dcfce7;
+  --removed: #fee2e2;
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    linear-gradient(180deg, rgba(29, 78, 216, 0.08), transparent 180px),
+    var(--bg);
+  color: var(--ink);
+}
+
+#app {
+  padding: 16px;
+  display: grid;
+  gap: 12px;
+  min-height: 100vh;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+.header p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+button {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
+button:hover {
+  filter: brightness(0.98);
+}
+
+.panes {
+  display: grid;
+  gap: 10px;
+}
+
+.pane {
+  display: grid;
+  gap: 6px;
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+textarea {
+  width: 100%;
+  min-height: 160px;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 10px;
+  font-family: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+  font-size: 0.8rem;
+  line-height: 1.45;
+  background: var(--panel);
+  color: var(--ink);
+}
+
+.status {
+  margin: 0;
+  min-height: 1.2rem;
+  font-size: 0.85rem;
+}
+
+.status[data-tone='ok'] {
+  color: var(--ok);
+}
+
+.status[data-tone='error'] {
+  color: var(--error);
+}
+
+.diff {
+  margin: 0;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel);
+  overflow: auto;
+  max-height: 280px;
+  font-family: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+
+.diff-line.added {
+  background: var(--added);
+}
+
+.diff-line.removed {
+  background: var(--removed);
+}

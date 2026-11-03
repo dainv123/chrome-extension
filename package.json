@@ -1,0 +1,16 @@
+{
+  "name": "chrome-apps",
+  "private": true,
+  "packageManager": "pnpm@10.19.0",
+  "scripts": {
+    "dev:clipkit": "pnpm --filter @apps/clipkit dev",
+    "build:clipkit": "pnpm --filter @apps/clipkit build",
+    "dev:json-bench": "pnpm --filter @apps/json-bench dev",
+    "build:json-bench": "pnpm --filter @apps/json-bench build",
+    "build": "pnpm -r --filter @apps/* build",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

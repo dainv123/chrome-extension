@@ -1,0 +1,23 @@
+{
+  "name": "@apps/json-bench",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build",
+    "zip": "wxt zip",
+    "postinstall": "wxt prepare",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "diff": "^7.0.0"
+  },
+  "devDependencies": {
+    "@repo/tsconfig": "workspace:*",
+    "@types/chrome": "^0.0.313",
+    "@types/diff": "^7.0.2",
+    "typescript": "^5.8.2",
+    "wxt": "^0.19.29"
+  }
+}

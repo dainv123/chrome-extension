@@ -1,0 +1,7 @@
+{
+  "name": "@apps/sentence-ipa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Vanilla MV3 extension: English selection → IPA + Vietnamese + TTS"
+}

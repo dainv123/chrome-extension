@@ -1,0 +1,25 @@
+{
+  "name": "@apps/clipkit",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build",
+    "zip": "wxt zip",
+    "postinstall": "wxt prepare",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@repo/ai-client": "workspace:*",
+    "@repo/export": "workspace:*",
+    "@repo/extract": "workspace:*",
+    "@repo/extension-utils": "workspace:*"
+  },
+  "devDependencies": {
+    "@repo/tsconfig": "workspace:*",
+    "@types/chrome": "^0.0.313",
+    "typescript": "^5.8.2",
+    "wxt": "^0.19.29"
+  }
+}

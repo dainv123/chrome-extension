@@ -1,0 +1,2505 @@
+[
+  {
+    "pattern": "ə→ɪ",
+    "count": 1090,
+    "examples": [
+      "services: ˈsɜrvəsəz vs ˈsɜːvɪsɪz",
+      "services: ˈsɜrvəsəz vs ˈsɜːvɪsɪz",
+      "service: ˈsɜrvəs vs ˈsɜːvɪs",
+      "policy: ˈpɑːləsi vs ˈpɑːlɪsi",
+      "message: ˈmɛsədʒ vs ˈmɛsɪdʒ",
+      "university: ˌjuːnəˈvɜrsəti vs ˌjuːnɪˈvɜːsɪɾi",
+      "university: ˌjuːnəˈvɜrsəti vs ˌjuːnɪˈvɜːsɪɾi",
+      "management: ˈmænədʒmənt vs ˈmænɪdʒmənt"
+    ]
+  },
+  {
+    "pattern": "t→ɾ",
+    "count": 614,
+    "examples": [
+      "data: ˈdeɪtə vs ˈdeɪɾə",
+      "city: ˈsɪti vs ˈsɪɾi",
+      "items: ˈaɪtəmz vs ˈaɪɾəmz",
+      "university: ˌjuːnəˈvɜrsəti vs ˌjuːnɪˈvɜːsɪɾi",
+      "united: juːˈnaɪtɪd vs juːˈnaɪɾɪd",
+      "item: ˈaɪtəm vs ˈaɪɾəm",
+      "community: kəˈmjuːnəti vs kəˈmjuːnɪɾi",
+      "related: rɪˈleɪtɪd vs rɪˈleɪɾɪd"
+    ]
+  },
+  {
+    "pattern": "∅→ɜ",
+    "count": 359,
+    "examples": [
+      "search: sɜrtʃ vs ˈsɜːtʃ",
+      "first: fɜrst vs ˈfɜːst",
+      "were: wɜr vs ˈwɜː",
+      "services: ˈsɜrvəsəz vs ˈsɜːvɪsɪz",
+      "service: ˈsɜrvəs vs ˈsɜːvɪs",
+      "world: wɜrld vs ˈwɜːld",
+      "work: wɜrk vs ˈwɜːk",
+      "her: hɜr vs ˈhɜː"
+    ]
+  },
+  {
+    "pattern": "ɜr→ː",
+    "count": 309,
+    "examples": [
+      "search: sɜrtʃ vs ˈsɜːtʃ",
+      "first: fɜrst vs ˈfɜːst",
+      "were: wɜr vs ˈwɜː",
+      "services: ˈsɜrvəsəz vs ˈsɜːvɪsɪz",
+      "service: ˈsɜrvəs vs ˈsɜːvɪs",
+      "world: wɜrld vs ˈwɜːld",
+      "work: wɜrk vs ˈwɜːk",
+      "her: hɜr vs ˈhɜː"
+    ]
+  },
+  {
+    "pattern": "∅→r",
+    "count": 282,
+    "examples": [
+      "general: ˈdʒɛnərəl vs ˈdʒɛnərrəl",
+      "security: sɪˈkjʊrəti vs sɪˈkjʊrrɪɾi",
+      "history: ˈhɪstəri vs ˈhɪstərri",
+      "directory: dərˈɛktəri vs dɪˈrɛktərri",
+      "during: ˈdʊrɪŋ vs ˈdʊrrɪŋ",
+      "insurance: ˌɪnˈʃʊrəns vs ɪˈnʃʊrrəns",
+      "around: ərˈaʊnd vs əˈrraʊnd",
+      "gallery: ˈɡæləri vs ˈɡælərri"
+    ]
+  },
+  {
+    "pattern": "i→ɪ",
+    "count": 190,
+    "examples": [
+      "copyright: ˈkɑːpiˌraɪt vs ˈkɑːpɪˌraɪt",
+      "video: ˈvɪdioʊ vs ˈvɪdɪoʊ",
+      "research: riˈsɜrtʃ vs rɪˈsɜːtʃ",
+      "reviews: riˈvjuːz vs rɪˈvjuːz",
+      "report: riˈpɔːrt vs rɪˈpoːrt",
+      "movies: ˈmuːviz vs ˈmuːvɪz",
+      "required: riˈkwaɪərd vs rɪˈkwaɪərd",
+      "experience: ɪkˈspɪriəns vs ɛˈkspiərɪəns"
+    ]
+  },
+  {
+    "pattern": "∅→o",
+    "count": 188,
+    "examples": [
+      "more: mɔːr vs ˈmoːr",
+      "support: səˈpɔːrt vs səˈpoːrt",
+      "store: stɔːr vs ˈstoːr",
+      "report: riˈpɔːrt vs rɪˈpoːrt",
+      "before: bɪˈfɔːr vs bɪˈfoːr",
+      "forum: ˈfɔːrəm vs ˈfoːrəm",
+      "sports: spɔːrts vs ˈspoːrts",
+      "resources: ˈriːsɔːrsɪz vs rɪˈsoːrsɪz"
+    ]
+  },
+  {
+    "pattern": "ɔː→ː",
+    "count": 186,
+    "examples": [
+      "more: mɔːr vs ˈmoːr",
+      "support: səˈpɔːrt vs səˈpoːrt",
+      "store: stɔːr vs ˈstoːr",
+      "report: riˈpɔːrt vs rɪˈpoːrt",
+      "before: bɪˈfɔːr vs bɪˈfoːr",
+      "forum: ˈfɔːrəm vs ˈfoːrəm",
+      "sports: spɔːrts vs ˈspoːrts",
+      "resources: ˈriːsɔːrsɪz vs rɪˈsoːrsɪz"
+    ]
+  },
+  {
+    "pattern": "ɪ→ɛ",
+    "count": 111,
+    "examples": [
+      "experience: ɪkˈspɪriəns vs ɛˈkspiərɪəns",
+      "example: ɪɡˈzæmpəl vs ɛˈɡzæmpəl",
+      "environment: ɪnˈvaɪrənmənt vs ɛˈnvaɪrənmənt",
+      "environmental: ɪnˌvaɪrənˈmɛntəl vs ɛˌnvaɪrəˈnmɛntəl",
+      "exchange: ɪksˈtʃeɪndʒ vs ɛˈkstʃeɪndʒ",
+      "executive: ɪɡˈzɛkjətɪv vs ɛˈɡzɛkjuːˌtɪv",
+      "ms: mɪz vs ˌɛˈmɛs",
+      "express: ɪkˈsprɛs vs ɛˈksprɛs"
+    ]
+  },
+  {
+    "pattern": "ɔː→ɔ",
+    "count": 60,
+    "examples": [
+      "software: ˈsɔːfˌtwɛr vs ˈsɔftwɛr",
+      "off: ɔːf vs ˈɔf",
+      "long: lɔːŋ vs ˈlɔŋ",
+      "offers: ˈɔːfərz vs ˈɔfərz",
+      "offer: ˈɔːfər vs ˈɔfər",
+      "log: lɔːɡ vs ˈlɔɡ",
+      "often: ˈɔːfən vs ˈɔfən",
+      "along: əˈlɔːŋ vs əˈlɔŋ"
+    ]
+  },
+  {
+    "pattern": "ər→r",
+    "count": 60,
+    "examples": [
+      "directory: dərˈɛktəri vs dɪˈrɛktərri",
+      "every: ˈɛvəri vs ˈɛvri",
+      "different: ˈdɪfərənt vs ˈdɪfrənt",
+      "reference: ˈrɛfərəns vs ˈrɛfrəns",
+      "director: dərˈɛktər vs dɪˈrɛktər",
+      "average: ˈævərɪdʒ vs ˈævrɪdʒ",
+      "direct: dərˈɛkt vs dɪˈrɛkt",
+      "conference: ˈkɑːnfərəns vs ˈkɑːnfrəns"
+    ]
+  },
+  {
+    "pattern": "ə→ʌ",
+    "count": 58,
+    "examples": [
+      "products: ˈprɑːdəkts vs ˈprɑːdʌkts",
+      "product: ˈprɑːdəkt vs ˈprɑːdʌkt",
+      "subject: səbˈdʒɛkt vs ˈsʌbdʒɛkt",
+      "industry: ˈɪndəstri vs ˈɪndʌstri",
+      "welcome: ˈwɛlkəm vs ˈwɛlkʌm",
+      "until: ənˈtɪl vs ʌˈntɪl",
+      "updated: əpˈdeɪtɪd vs ʌˈpdeɪɾɪd",
+      "update: əpˈdeɪt vs ˈʌpdeɪt"
+    ]
+  },
+  {
+    "pattern": "iː→i",
+    "count": 51,
+    "examples": [
+      "company: ˈkʌmpəˌniː vs ˈkʌmpəni",
+      "library: ˈlaɪbrɛˌriː vs ˈlaɪbrɛri",
+      "companies: ˈkʌmpəˌniːz vs ˈkʌmpəniz",
+      "european: ˌjʊrəˈpiːən vs ˌjʊrrəˈpiən",
+      "ideas: aɪˈdiːəz vs aɪˈdiəz",
+      "idea: aɪˈdiːə vs aɪˈdiə",
+      "probably: ˈprɑːbəˌbliː vs ˈprɑːbəbli",
+      "ability: əˈbɪləˌtiː vs əˈbɪləɾi"
+    ]
+  },
+  {
+    "pattern": "n→ŋ",
+    "count": 51,
+    "examples": [
+      "including: ˌɪnˈkluːdɪŋ vs ɪˈŋkluːdɪŋ",
+      "include: ˌɪnˈkluːd vs ɪˈŋkluːd",
+      "includes: ˌɪnˈkluːdz vs ɪˈŋkluːdz",
+      "included: ˌɪnˈkluːdəd vs ɪˈŋkluːdɪd",
+      "increase: ˌɪnˈkriːs vs ˈɪŋkriːs",
+      "income: ˈɪnˌkʌm vs ˈɪŋkʌm",
+      "increased: ˌɪnˈkriːst vs ɪˈŋkriːst",
+      "increasing: ˌɪnˈkriːsɪŋ vs ɪˈŋkriːsɪŋ"
+    ]
+  },
+  {
+    "pattern": "æ→ə",
+    "count": 47,
+    "examples": [
+      "than: ðæn vs ˈðən",
+      "address: ˈæˌdrɛs vs əˈdrɛs",
+      "accessories: ækˈsɛsəriz vs əˈksɛsərriz",
+      "administration: ædˌmɪnɪˈstreɪʃən vs əˌdmɪnɪˈstreɪʃən",
+      "advice: ædˈvaɪs vs əˈdvaɪs",
+      "accepted: ækˈsɛptɪd vs əˈksɛptɪd",
+      "accept: ækˈsɛpt vs əˈksɛpt",
+      "acceptance: ækˈsɛptəns vs əˈksɛptəns"
+    ]
+  },
+  {
+    "pattern": "i→iː",
+    "count": 47,
+    "examples": [
+      "email: iˈmeɪl vs ˈiːmeɪl",
+      "media: ˈmiːdiə vs ˈmiːdiːə",
+      "create: kriˈeɪt vs kriːˈeɪt",
+      "created: kriˈeɪtəd vs kriːˈeɪɾɪd",
+      "employees: ɛmˈplɔɪiz vs ɛˈmplɔɪiːz",
+      "maybe: ˈmeɪbi vs ˈmeɪbiː",
+      "creative: kriˈeɪtɪv vs kriːˈeɪɾɪv",
+      "employee: ɛmˈplɔɪi vs ɛˈmplɔɪiː"
+    ]
+  },
+  {
+    "pattern": "ɛ→æ",
+    "count": 47,
+    "examples": [
+      "carolina: ˌkɛrəˈlaɪnə vs ˌkærəˈlaɪnə",
+      "character: ˈkɛrɪktər vs ˈkærɪktər",
+      "paris: ˈpɛrɪs vs ˈpærɪs",
+      "guarantee: ˌɡɛrənˈtiː vs ˌɡærəˈntiː",
+      "arizona: ˌɛrɪˈzoʊnə vs ˌærɪˈzoʊnə",
+      "comparison: kəmˈpɛrəsən vs kəˈmpærɪsən",
+      "ontario: ɑːnˈtɛrioʊ vs ɑːˈntærɪˌoʊ",
+      "harry: ˈhɛri vs ˈhæri"
+    ]
+  },
+  {
+    "pattern": "ɔː→ɑː",
+    "count": 45,
+    "examples": [
+      "online: ˈɔːnˌlaɪn vs ˈɑːnlaɪn",
+      "office: ˈɔːfɪs vs ˈɑːfɪs",
+      "blog: blɔːɡ vs ˈblɑːɡ",
+      "login: ˈlɔːɡˌɪn vs ˈlɑːɡɪn",
+      "oct: ɔːkt vs ˈɑːkt",
+      "microsoft: ˈmaɪˌkroʊˈsɔːft vs ˈmaɪkrəˌsɑːft",
+      "dog: dɔːɡ vs ˈdɑːɡ",
+      "across: əˈkrɔːs vs əˈkrɑːs"
+    ]
+  },
+  {
+    "pattern": "z→s",
+    "count": 43,
+    "examples": [
+      "lesbian: ˈlɛzbiən vs ˈlɛsbiən",
+      "ms: mɪz vs ˌɛˈmɛs",
+      "jersey: ˈdʒɜrzi vs ˈdʒɜːsi",
+      "dvds: ˌdiːˌviːˈdiːz vs ˌdiːˌviːˌdiːˈɛs",
+      "cds: ˌsiːˈdiːz vs ˌsiːˌdiːˈɛs",
+      "translation: trænzˈleɪʃən vs træˈnsleɪʃən",
+      "transit: ˈtrænzɪt vs ˈtrænsɪt",
+      "lesbians: ˈlɛzbiənz vs ˈlɛsbiənz"
+    ]
+  },
+  {
+    "pattern": "iː→ɪ",
+    "count": 41,
+    "examples": [
+      "here: hiːr vs ˈhɪr",
+      "review: ˌriːˈvjuː vs rɪˈvjuː",
+      "resources: ˈriːsɔːrsɪz vs rɪˈsoːrsɪz",
+      "resource: ˈriːsɔːrs vs rɪˈsoːrs",
+      "require: ˌriːˈkwaɪər vs rɪˈkwaɪər",
+      "reported: ˌriːˈpɔːrtɪd vs rɪˈpoːrɾɪd",
+      "hear: hiːr vs ˈhɪr",
+      "hearing: ˈhiːrɪŋ vs ˈhɪrɪŋ"
+    ]
+  },
+  {
+    "pattern": "ɑː→ɔ",
+    "count": 39,
+    "examples": [
+      "on: ɑːn vs ˈɔn",
+      "want: wɑːnt vs ˈwɔnt",
+      "quality: ˈkwɑːləti vs ˈkwɔlɪɾi",
+      "cost: kɑːst vs ˈkɔst",
+      "costs: kɑːsts vs ˈkɔsts",
+      "boston: ˈbɑːstən vs ˈbɔstən",
+      "beyond: bɪˈɑːnd vs bɪˈjɔnd",
+      "coffee: ˈkɑːfi vs ˈkɔfi"
+    ]
+  },
+  {
+    "pattern": "r→ər",
+    "count": 39,
+    "examples": [
+      "experience: ɪkˈspɪriəns vs ɛˈkspiərɪəns",
+      "period: ˈpɪriəd vs ˈpiərɪəd",
+      "record: rəˈkɔːrd vs ˈrɛkərd",
+      "records: rəˈkɔːrdz vs ˈrɛkərdz",
+      "requirements: rɪˈkwaɪrmənts vs rɪˈkwaɪərmənts",
+      "wireless: ˈwaɪrlɪs vs ˈwaɪərləs",
+      "theory: ˈθɪri vs ˈθiəri",
+      "particularly: ˌpɑːrˈtɪkjələrli vs pəˈrtɪkjʊlərli"
+    ]
+  },
+  {
+    "pattern": "ə→ʊ",
+    "count": 37,
+    "examples": [
+      "popular: ˈpɑːpjələr vs ˈpɑːpjʊlər",
+      "particular: pərˈtɪkjələr vs pəˈrtɪkjʊlər",
+      "population: ˌpɑːpjəˈleɪʃən vs ˌpɑːpjʊˈleɪʃən",
+      "regular: ˈrɛɡjələr vs ˈrɛɡjʊlər",
+      "regulations: ˌrɛɡjəˈleɪʃənz vs ˌrɛɡjʊˈleɪʃənz",
+      "particularly: ˌpɑːrˈtɪkjələrli vs pəˈrtɪkjʊlərli",
+      "regulation: ˌrɛɡjəˈleɪʃən vs ˌrɛɡjʊˈleɪʃən",
+      "curriculum: kərˈɪkjələm vs kɜːˈrɪkjʊləm"
+    ]
+  },
+  {
+    "pattern": "ɑː→æ",
+    "count": 34,
+    "examples": [
+      "la: lɑː vs ˈlæ",
+      "yahoo: ˈjɑːˌhuː vs ˈjæhuː",
+      "iraq: ˌɪˈrɑːk vs ɪˈræk",
+      "nevada: nəˈvɑːdə vs nɪˈvædə",
+      "iran: ˌɪˈrɑːn vs ɪˈræn",
+      "latina: lɑːˈtiːnə vs læˈtiːnə",
+      "cialis: ˌsiːˈɑːləs vs siːˈælɪs",
+      "lat: lɑːt vs ˈlæt"
+    ]
+  },
+  {
+    "pattern": "ər→ː",
+    "count": 34,
+    "examples": [
+      "virginia: vərˈdʒɪnjə vs vɜːˈdʒɪniə",
+      "survey: sərˈveɪ vs ˈsɜːveɪ",
+      "perfect: pərˈfɛkt vs ˈpɜːfɛkt",
+      "commerce: ˈkɑːmərs vs ˈkɑːmɜːs",
+      "expert: ˈɛkspərt vs ˈɛkspɜːt",
+      "experts: ˈɛkspərts vs ˈɛkspɜːts",
+      "netherlands: ˈnɛðərləndz vs ˈnɛðɜːləndz",
+      "permit: pərˈmɪt vs ˈpɜːmɪt"
+    ]
+  },
+  {
+    "pattern": "ə→uː",
+    "count": 33,
+    "examples": [
+      "education: ˌɛdʒəˈkeɪʃən vs ˌɛdʒuːˈkeɪʃən",
+      "document: ˈdɑːkjəmɛnt vs ˈdɑːkjuːmənt",
+      "executive: ɪɡˈzɛkjətɪv vs ɛˈɡzɛkjuːˌtɪv",
+      "documents: ˈdɑːkjəmənts vs ˈdɑːkjuːmənts",
+      "manufacturer: ˌmænjəˈfæktʃərər vs ˌmænjuːˈfæktʃərrər",
+      "educational: ˌɛdʒəˈkeɪʃənəl vs ˌɛdʒuːˈkeɪʃənəl",
+      "documentation: ˌdɑːkjəmɛnˈteɪʃən vs ˌdɑːkjuːməˈnteɪʃən",
+      "manufacturing: ˌmænjəˈfæktʃərɪŋ vs ˌmænjuːˈfæktʃərrɪŋ"
+    ]
+  },
+  {
+    "pattern": "ɜr→r",
+    "count": 32,
+    "examples": [
+      "current: ˈkɜrənt vs ˈkɜːrənt",
+      "currently: ˈkɜrəntli vs ˈkɜːrəntli",
+      "currency: ˈkɜrənsi vs ˈkɜːrənsi",
+      "der: dɜr vs ˈdɛr",
+      "encourage: ɛnˈkɜrɪdʒ vs ɛˈŋkɜːrɪdʒ",
+      "liberal: ˈlɪˌbɜrəl vs ˈlɪbərrəl",
+      "hurricane: ˈhɜrəˌkeɪn vs ˈhɜːrɪˌkeɪn",
+      "citysearch: ˈsɪtiˌsɜrtʃ vs ˈsɪɾaɪˌsɑːrtʃ"
+    ]
+  },
+  {
+    "pattern": "ə→∅",
+    "count": 26,
+    "examples": [
+      "feb: ˈfɛbjəˌwɛri vs ˈfɛb",
+      "aug: ˈɔːɡəst vs ˈɔːɡ",
+      "individual: ˌɪndəˈvɪdʒəwəl vs ˌɪndɪˈvɪdʒuːəl",
+      "usually: ˈjuːʒəwəli vs ˈjuːʒuːəli",
+      "visual: ˈvɪʒəwəl vs ˈvɪʒuːəl",
+      "individuals: ˌɪndəˈvɪdʒəwəlz vs ˌɪndɪˈvɪdʒuːəlz",
+      "actual: ˈæktʃəwəl vs ˈæktʃuːəl",
+      "graduate: ˈɡrædʒəwət vs ˈɡrædʒuːət"
+    ]
+  },
+  {
+    "pattern": "ɑː→ə",
+    "count": 25,
+    "examples": [
+      "africa: ˈæfrəkɑː vs ˈæfrɪkə",
+      "compact: ˈkɑːmpækt vs kəˈmpækt",
+      "costa: ˈkɔːstɑː vs ˈkɔstə",
+      "contractor: ˈkɑːnˌtræktər vs kəˈntræktər",
+      "contractors: ˈkɑːnˌtræktərz vs kəˈntræktərz",
+      "python: ˈpaɪθɑːn vs ˈpaɪθən",
+      "convert: ˈkɑːnvərt vs kəˈnvɜːt",
+      "ya: jɑː vs ˈjə"
+    ]
+  },
+  {
+    "pattern": "ɑː→ɔː",
+    "count": 24,
+    "examples": [
+      "august: ˈɑːɡəst vs ˈɔːɡəst",
+      "audio: ˈɑːdiˌoʊ vs ˈɔːdɪˌoʊ",
+      "cause: kɑːz vs ˈkɔːz",
+      "auction: ˈɑːkʃən vs ˈɔːkʃən",
+      "auctions: ˈɑːkʃənz vs ˈɔːkʃənz",
+      "bought: bɑːt vs ˈbɔːt",
+      "caused: kɑːzd vs ˈkɔːzd",
+      "raw: rɑː vs ˈrɔː"
+    ]
+  },
+  {
+    "pattern": "s→z",
+    "count": 24,
+    "examples": [
+      "es: ɛs vs ˈiːz",
+      "houses: ˈhaʊsəz vs ˈhaʊzɪz",
+      "photographs: ˈfoʊtəɡˌræfs vs ˈfoʊɾəˌɡræfz",
+      "douglas: ˈdʌɡləs vs ˈdʌɡləz",
+      "diesel: ˈdiːsəl vs ˈdiːzəl",
+      "versus: ˈvɜrsəs vs ˈvɜːsɪz",
+      "glasgow: ˈɡlæˌskoʊ vs ˈɡlæzɡoʊ",
+      "lycos: ˈlaɪkoʊs vs ˈlaɪkoʊz"
+    ]
+  },
+  {
+    "pattern": "ɪ→ə",
+    "count": 23,
+    "examples": [
+      "even: ˈiːvɪn vs ˈiːvən",
+      "personal: ˈpɜrsɪnəl vs ˈpɜːsənəl",
+      "really: ˈrɪli vs ˈriəli",
+      "wireless: ˈwaɪrlɪs vs ˈwaɪərləs",
+      "vehicle: ˈviːhɪkəl vs ˈviəkəl",
+      "vehicles: ˈviːhɪkəlz vs ˈviəkəlz",
+      "personals: ˈpɜrsɪnɪlz vs ˈpɜːsənəlz",
+      "personals: ˈpɜrsɪnɪlz vs ˈpɜːsənəlz"
+    ]
+  },
+  {
+    "pattern": "∅→ː",
+    "count": 22,
+    "examples": [
+      "current: ˈkɜrənt vs ˈkɜːrənt",
+      "currently: ˈkɜrəntli vs ˈkɜːrəntli",
+      "transportation: ˌtrænspərˈteɪʃən vs trænspoːˈrteɪʃən",
+      "yourself: jərˈsɛlf vs joːˈrsɛlf",
+      "currency: ˈkɜrənsi vs ˈkɜːrənsi",
+      "curriculum: kərˈɪkjələm vs kɜːˈrɪkjʊləm",
+      "encourage: ɛnˈkɜrɪdʒ vs ɛˈŋkɜːrɪdʒ",
+      "hurricane: ˈhɜrəˌkeɪn vs ˈhɜːrɪˌkeɪn"
+    ]
+  },
+  {
+    "pattern": "j→i",
+    "count": 22,
+    "examples": [
+      "california: ˌkæləˈfɔːrnjə vs ˌkælɪˈfoːrniə",
+      "million: ˈmɪljən vs ˈmɪliən",
+      "australia: ɔːˈstreɪljə vs ɔːˈstreɪliə",
+      "union: ˈjuːnjən vs ˈjuːniən",
+      "virginia: vərˈdʒɪnjə vs vɜːˈdʒɪniə",
+      "opinion: əˈpɪnjən vs əˈpɪniən",
+      "australian: ɔːˈstreɪljən vs ɔːˈstreɪliən",
+      "italian: ˌɪˈtæljən vs ɪˈtæliən"
+    ]
+  },
+  {
+    "pattern": "∅→ɪ",
+    "count": 21,
+    "examples": [
+      "directory: dərˈɛktəri vs dɪˈrɛktərri",
+      "director: dərˈɛktər vs dɪˈrɛktər",
+      "direct: dərˈɛkt vs dɪˈrɛkt",
+      "directly: dərˈɛktli vs dɪˈrɛktli",
+      "directions: dərˈɛkʃənz vs dɪˈrɛkʃənz",
+      "direction: dərˈɛkʃən vs dɪˈrɛkʃən",
+      "directors: dərˈɛktərz vs dɪˈrɛktərz",
+      "directed: dərˈɛktəd vs dɪˈrɛktɪd"
+    ]
+  },
+  {
+    "pattern": "ə→ɛ",
+    "count": 21,
+    "examples": [
+      "interest: ˈɪntrəst vs ˈɪntrɛst",
+      "record: rəˈkɔːrd vs ˈrɛkərd",
+      "records: rəˈkɔːrdz vs ˈrɛkərdz",
+      "interested: ˈɪntrəstɪd vs ˈɪntrɛstɪd",
+      "interesting: ˈɪntrəstɪŋ vs ˈɪntrɛstɪŋ",
+      "interests: ˈɪntrəsts vs ˈɪntrɛsts",
+      "recommendations: ˌrɛkəmənˈdeɪʃənz vs ˌrɛkəmɛˈndeɪʃənz",
+      "kentucky: kənˈtʌki vs kɛˈntʌki"
+    ]
+  },
+  {
+    "pattern": "ə→æ",
+    "count": 20,
+    "examples": [
+      "and: ənd vs ˈænd",
+      "maryland: ˈmɛrələnd vs ˈmɛrɪˌlænd",
+      "cafe: kəˈfeɪ vs ˈkæfeɪ",
+      "rehabilitation: ˌriːhəˌbɪləˈteɪʃən vs rɪˌhæbɪlɪˈteɪʃən",
+      "analyses: əˈnæləˌsiːz vs ˈænəˌlaɪzɪz",
+      "brazilian: brəˈzɪljən vs bræˈzɪliən",
+      "bahamas: bəˈhɑːməz vs bæˈhɑːməz",
+      "namibia: nəˈmɪbiə vs næˈmɪbiə"
+    ]
+  },
+  {
+    "pattern": "ɪ→i",
+    "count": 20,
+    "examples": [
+      "experience: ɪkˈspɪriəns vs ɛˈkspiərɪəns",
+      "period: ˈpɪriəd vs ˈpiərɪəd",
+      "theory: ˈθɪri vs ˈθiəri",
+      "criteria: kraɪˈtɪriə vs kraɪˈtiərɪə",
+      "zero: ˈzɪroʊ vs ˈziəroʊ",
+      "experienced: ɪkˈspɪriənst vs ɛˈkspiərɪənst",
+      "experiences: ɪkˈspɪriənsɪz vs ɛˈkspiərɪənsɪz",
+      "periods: ˈpɪriədz vs ˈpiərɪədz"
+    ]
+  },
+  {
+    "pattern": "ɛ→ə",
+    "count": 20,
+    "examples": [
+      "president: ˈprɛzəˌdɛnt vs ˈprɛzɪdənt",
+      "document: ˈdɑːkjəmɛnt vs ˈdɑːkjuːmənt",
+      "implementation: ˌɪmpləmɛnˈteɪʃən vs ˌɪmplɪməˈnteɪʃən",
+      "documentation: ˌdɑːkjəmɛnˈteɪʃən vs ˌdɑːkjuːməˈnteɪʃən",
+      "premier: prɛˈmɪr vs prəˈmɪr",
+      "implemented: ˈɪmpləˌmɛntəd vs ˈɪmplɪməntɪd",
+      "vietnam: viˌɛtˈnɑːm vs ˌviːəˈtnɑːm",
+      "oriented: ˈɔːriˌɛntəd vs ˈoːriəntɪd"
+    ]
+  },
+  {
+    "pattern": "oʊ→ə",
+    "count": 19,
+    "examples": [
+      "microsoft: ˈmaɪˌkroʊˈsɔːft vs ˈmaɪkrəˌsɑːft",
+      "domain: doʊˈmeɪn vs dəˈmeɪn",
+      "proceedings: proʊˈsiːdɪŋz vs prəˈsiːdɪŋz",
+      "toshiba: toʊˈʃiːbə vs təˈʃiːbə",
+      "domains: doʊˈmeɪnz vs dəˈmeɪnz",
+      "prohibited: proʊˈhɪbətəd vs prəˈhɪbɪɾɪd",
+      "edinburgh: ˈɛdənbəroʊ vs ˈɛdɪnbʌrə",
+      "olympic: oʊˈlɪmpɪk vs əˈlɪmpɪk"
+    ]
+  },
+  {
+    "pattern": "w→uː",
+    "count": 15,
+    "examples": [
+      "february: ˈfɛbjəˌwɛri vs ˈfɛbruːˌɛri",
+      "individual: ˌɪndəˈvɪdʒəwəl vs ˌɪndɪˈvɪdʒuːəl",
+      "usually: ˈjuːʒəwəli vs ˈjuːʒuːəli",
+      "visual: ˈvɪʒəwəl vs ˈvɪʒuːəl",
+      "individuals: ˌɪndəˈvɪdʒəwəlz vs ˌɪndɪˈvɪdʒuːəlz",
+      "actual: ˈæktʃəwəl vs ˈæktʃuːəl",
+      "graduate: ˈɡrædʒəwət vs ˈɡrædʒuːət",
+      "eventually: ɪˈvɛntʃəwəli vs ɪˈvɛntʃuːəli"
+    ]
+  },
+  {
+    "pattern": "∅→ɛ",
+    "count": 15,
+    "examples": [
+      "ms: mɪz vs ˌɛˈmɛs",
+      "mm: m vs ˌɛˈmɛm",
+      "mm: m vs ˌɛˈmɛm",
+      "dvds: ˌdiːˌviːˈdiːz vs ˌdiːˌviːˌdiːˈɛs",
+      "cds: ˌsiːˈdiːz vs ˌsiːˌdiːˈɛs",
+      "yeah: jæ vs ˈjɛh",
+      "der: dɜr vs ˈdɛr",
+      "mc: mɪk vs ˌɛˈmsiː"
+    ]
+  },
+  {
+    "pattern": "∅→ər",
+    "count": 15,
+    "examples": [
+      "recovery: rɪˈkʌvri vs rɪˈkʌvərri",
+      "elementary: ˌɛləˈmɛntri vs ˌɛlɪˈmɛntərri",
+      "opera: ˈɑːprə vs ˈɑːpərrə",
+      "liberal: ˈlɪˌbɜrəl vs ˈlɪbərrəl",
+      "montgomery: mɑːntɡˈʌmri vs mɑːˈntɡɑːmərri",
+      "desperate: ˈdɛsprɪt vs ˈdɛspərrət",
+      "hiring: ˈhaɪrɪŋ vs ˈhaɪərrɪŋ",
+      "enquiry: ɪnˈkwaɪˌriː vs ɛˈŋkwaɪərri"
+    ]
+  },
+  {
+    "pattern": "∅→j",
+    "count": 14,
+    "examples": [
+      "beyond: bɪˈɑːnd vs bɪˈjɔnd",
+      "nutrition: nuːˈtrɪʃən vs njuːˈtrɪʃən",
+      "renewal: rɪˈnuːəl vs rɪˈnjuːəl",
+      "venues: ˈvɛnuːz vs ˈvɛnjuːz",
+      "joshua: ˈdʒɑːˌʃuːə vs ˈdʒɑːʃjuːə",
+      "una: ˈuːnə vs ˈjuːnə",
+      "honduras: hɑːnˈdʊrəs vs hɑːˈndjʊrrəs",
+      "nutritional: nuːˈtrɪʃənəl vs njuːˈtrɪʃənəl"
+    ]
+  },
+  {
+    "pattern": "iː→∅",
+    "count": 13,
+    "examples": [
+      "vehicle: ˈviːhɪkəl vs ˈviəkəl",
+      "vehicles: ˈviːhɪkəlz vs ˈviəkəlz",
+      "ap: ˌeɪˈpiː vs ˈæp",
+      "acc: ˌaɪˌsiːˈsiː vs ˈæk",
+      "ce: ˌsiːˈiː vs ˈsiː",
+      "ba: ˌbiːˈeɪ vs ˈbɑː",
+      "epa: ˌiːˌpiːˈeɪ vs ˈɛpə",
+      "av: ˌeɪˈviː vs ˈæv"
+    ]
+  },
+  {
+    "pattern": "∅→ʊ",
+    "count": 12,
+    "examples": [
+      "accuracy: ˈækjərəsi vs ˈækjʊrəsi",
+      "euro: ˈjuːroʊ vs ˈjʊrroʊ",
+      "accurate: ˈækjərət vs ˈækjʊrət",
+      "mercury: ˈmɜrkjəri vs ˈmɜːkjʊri",
+      "uruguay: ˈjɜrəɡˌweɪ vs ˈjʊrruːˌɡwaɪ",
+      "tournaments: ˈtɜrnəmənts vs ˈtʊrnəmənts",
+      "entrepreneur: ˌɑːntrəprəˈnɜr vs ˌɑːntrɪprəˈnʊr",
+      "accurately: ˈækjərətli vs ˈækjʊrətli"
+    ]
+  },
+  {
+    "pattern": "ə→ɑː",
+    "count": 12,
+    "examples": [
+      "objectives: əbˈdʒɛktɪvz vs ɑːˈbdʒɛktɪvz",
+      "objective: əbˈdʒɛktɪv vs ɑːˈbdʒɛktɪv",
+      "concrete: kənˈkriːt vs ˈkɑːŋkriːt",
+      "lebanon: ˈlɛbənən vs ˈlɛbəˌnɑːn",
+      "ion: ˈaɪən vs ˈaɪɑːn",
+      "anybody: ˈɛnibədi vs ˈɛnɪˌbɑːdi",
+      "connectivity: kənɛkˈtɪvɪti vs kɑːnɪˈktɪvɪɾi",
+      "solomon: ˈsɑːləmən vs ˈsɑːlɑːmən"
+    ]
+  },
+  {
+    "pattern": "ə→eɪ",
+    "count": 11,
+    "examples": [
+      "a: ə vs ˈeɪ",
+      "associates: əˈsoʊsiəts vs əˈsoʊsɪˌeɪts",
+      "affiliates: əˈfɪliəts vs əˈfɪlɪˌeɪts",
+      "associate: əˈsoʊsiət vs əˈsoʊsɪˌeɪt",
+      "aaa: ˌtrɪpəˈleɪ vs ˌeɪˌeɪˈeɪ",
+      "regime: rəˈʒiːm vs reɪˈʒiːm",
+      "syndicate: ˈsɪndɪkət vs ˈsɪndɪˌkeɪt",
+      "aggregate: ˈæɡrəɡət vs ˈæɡrɪˌɡeɪt"
+    ]
+  },
+  {
+    "pattern": "uː→ʊ",
+    "count": 11,
+    "examples": [
+      "into: ˈɪntuː vs ˈɪntʊ",
+      "poor: puːr vs ˈpʊr",
+      "voyeur: ˌvɔɪˈjuːr vs vɔɪˈʊr",
+      "onto: ˈɑːntuː vs ˈɑːntʊ",
+      "unto: ˈʌntuː vs ˈʌntʊ",
+      "ejaculation: iˌdʒækjuːˈleɪʃən vs ɪˌdʒækjʊˈleɪʃən",
+      "uzbekistan: uːzˈbɛkɪˌstæn vs ˌʊzbɛkɪˈstæn",
+      "cingular: ˌsɪnɡuːˌlɜr vs ˈsɪŋɡjʊlər"
+    ]
+  },
+  {
+    "pattern": "j→∅",
+    "count": 11,
+    "examples": [
+      "february: ˈfɛbjəˌwɛri vs ˈfɛbruːˌɛri",
+      "feb: ˈfɛbjəˌwɛri vs ˈfɛb",
+      "voyeur: ˌvɔɪˈjuːr vs vɔɪˈʊr",
+      "tuition: tjuːˈɪʃən vs tuːˈɪʃən",
+      "configured: kənˈfɪɡjərd vs kəˈnfɪɡərd",
+      "transsexual: trænˈsɛkʃjuːəl vs træˈnsɛkʃuːəl",
+      "hyundai: ˈhjʌnˌdeɪ vs ˈhʌndeɪ",
+      "ul: ˈjuːˈɛl vs ˈʊl"
+    ]
+  },
+  {
+    "pattern": "t→ʔ",
+    "count": 11,
+    "examples": [
+      "written: ˈrɪtən vs ˈrɪʔn̩",
+      "button: ˈbʌtən vs ˈbʌʔn̩",
+      "cotton: ˈkɑːtən vs ˈkɑːʔn̩",
+      "patent: ˈpætənt vs ˈpæʔn̩t",
+      "buttons: ˈbʌtənz vs ˈbʌʔn̩z",
+      "forgotten: fərɡˈɑːtən vs fəˈrɡɑːʔn̩",
+      "manhattan: mænˈhætən vs mæˈnhæʔn̩",
+      "patents: ˈpætənts vs ˈpæʔn̩ts"
+    ]
+  },
+  {
+    "pattern": "ə→n",
+    "count": 11,
+    "examples": [
+      "written: ˈrɪtən vs ˈrɪʔn̩",
+      "button: ˈbʌtən vs ˈbʌʔn̩",
+      "cotton: ˈkɑːtən vs ˈkɑːʔn̩",
+      "patent: ˈpætənt vs ˈpæʔn̩t",
+      "buttons: ˈbʌtənz vs ˈbʌʔn̩z",
+      "forgotten: fərɡˈɑːtən vs fəˈrɡɑːʔn̩",
+      "manhattan: mænˈhætən vs mæˈnhæʔn̩",
+      "patents: ˈpætənts vs ˈpæʔn̩ts"
+    ]
+  },
+  {
+    "pattern": "n→̩",
+    "count": 11,
+    "examples": [
+      "written: ˈrɪtən vs ˈrɪʔn̩",
+      "button: ˈbʌtən vs ˈbʌʔn̩",
+      "cotton: ˈkɑːtən vs ˈkɑːʔn̩",
+      "patent: ˈpætənt vs ˈpæʔn̩t",
+      "buttons: ˈbʌtənz vs ˈbʌʔn̩z",
+      "forgotten: fərɡˈɑːtən vs fəˈrɡɑːʔn̩",
+      "manhattan: mænˈhætən vs mæˈnhæʔn̩",
+      "patents: ˈpætənts vs ˈpæʔn̩ts"
+    ]
+  },
+  {
+    "pattern": "∅→ə",
+    "count": 10,
+    "examples": [
+      "real: riːl vs ˈriːəl",
+      "especially: əˈspɛʃli vs ɪˈspɛʃəli",
+      "diamond: ˈdaɪmənd vs ˈdaɪəmənd",
+      "gnu: nuː vs ɡəˈnuː",
+      "vi: vaɪ vs ˌroʊmən ˈsɪks",
+      "wrestling: ˈrɛslɪŋ vs ˈrɛsəlɪŋ",
+      "diamonds: ˈdaɪməndz vs ˈdaɪəməndz",
+      "isle: aɪl vs ˈaɪəl"
+    ]
+  },
+  {
+    "pattern": "ɛ→ər",
+    "count": 10,
+    "examples": [
+      "necessary: ˈnɛsəˌsɛri vs ˈnɛsɪsərri",
+      "primary: ˈpraɪˌmɛri vs ˈpraɪmərri",
+      "secondary: ˈsɛkənˌdɛri vs ˈsɛkəndərri",
+      "voluntary: ˈvɑːləntɛri vs ˈvɑːləntərri",
+      "subsidiary: səbˈsɪdiˌɛri vs sʌˈbsɪdjərri",
+      "dietary: ˈdaɪəˌtɛri vs ˈdaɪətərri",
+      "unnecessary: ənˈnɛsəˌsɛri vs ʌˈnnɛsɪsərri",
+      "subsidiaries: səbˈsɪdiˌɛriz vs sʌˈbsɪdjərriz"
+    ]
+  },
+  {
+    "pattern": "∅→ʌ",
+    "count": 10,
+    "examples": [
+      "edinburgh: ˈɛdənbəroʊ vs ˈɛdɪnbʌrə",
+      "worry: ˈwɜri vs ˈwʌri",
+      "durham: ˈdɜrəm vs ˈdʌrəm",
+      "tucson: ˈtuːˌsɑːn vs ˈtʌksən",
+      "borough: ˈbɜrˌoʊ vs ˈbʌroʊ",
+      "surrey: ˈsɜri vs ˈsʌri",
+      "worried: ˈwɜrid vs ˈwʌrid",
+      "thoroughly: ˈθɜroʊli vs ˈθʌroʊli"
+    ]
+  },
+  {
+    "pattern": "ə→aɪ",
+    "count": 9,
+    "examples": [
+      "financial: fəˈnænʃəl vs faɪˈnænʃəl",
+      "finance: fəˈnæns vs ˈfaɪnæns",
+      "advertisement: ædˈvɜrtəzmənt vs ˌædvəˈrtaɪzmənt",
+      "financing: fəˈnænsɪŋ vs faɪˈnænsɪŋ",
+      "eminem: ˈɛmənəm vs ˈɛmaɪnəm",
+      "refinance: ˌriːfəˈnæns vs rɪfaɪˈnæns",
+      "juvenile: ˈdʒuːvənəl vs ˈdʒuːvəˌnaɪl",
+      "analyses: əˈnæləˌsiːz vs ˈænəˌlaɪzɪz"
+    ]
+  },
+  {
+    "pattern": "oʊ→ɑː",
+    "count": 9,
+    "examples": [
+      "nov: noʊv vs ˈnɑːv",
+      "mon: moʊn vs ˈmɑːn",
+      "los: loʊs vs ˈlɑːs",
+      "productivity: ˌproʊdəkˈtɪvəti vs ˌprɑːdəˈktɪvɪɾi",
+      "colin: ˈkoʊlɪn vs ˈkɑːlɪn",
+      "mono: ˈmoʊnoʊ vs ˈmɑːnoʊ",
+      "volvo: ˈvoʊlvoʊ vs ˈvɑːlvoʊ",
+      "mozambique: ˌmoʊzæmˈbiːk vs ˌmɑːzəˈmbiːk"
+    ]
+  },
+  {
+    "pattern": "iː→aɪ",
+    "count": 8,
+    "examples": [
+      "anti: ˈænˌtiː vs ˈæntaɪ",
+      "mi: miː vs ˈmaɪ",
+      "ia: ˈiːə vs ˈaɪə",
+      "sci: siː vs ˈsaɪ",
+      "li: liː vs ˈlaɪ",
+      "ti: tiː vs ˈtaɪ",
+      "ni: niː vs ˈnaɪ",
+      "sie: siː vs ˈsaɪ"
+    ]
+  },
+  {
+    "pattern": "eɪ→ə",
+    "count": 8,
+    "examples": [
+      "separate: ˈsɛpərˌeɪt vs ˈsɛprət",
+      "legislative: ˈlɛdʒəˌsleɪtɪv vs ˈlɛdʒɪsləˌtɪv",
+      "epa: ˌiːˌpiːˈeɪ vs ˈɛpə",
+      "cooperative: koʊˈɑːpərˌeɪtɪv vs koʊˈɑːpərrəˌtɪv",
+      "legislature: ˈlɛdʒəˌsleɪtʃər vs ˈlɛdʒɪslətʃər",
+      "collaborative: kəˈlæbərˌeɪtɪv vs kəˈlæbrəˌtɪv",
+      "tanzania: tænˈzeɪniə vs ˈtænzəˈniə",
+      "brisbane: ˈbrɪzˌbeɪn vs ˈbrɪsbən"
+    ]
+  },
+  {
+    "pattern": "j→ɪ",
+    "count": 8,
+    "examples": [
+      "failure: ˈfeɪljər vs ˈfeɪlɪr",
+      "familiar: fəˈmɪljər vs fəˈmɪlɪr",
+      "convenient: kənˈviːnjənt vs kəˈnviːnɪənt",
+      "convenience: kənˈviːnjəns vs kəˈnviːnɪəns",
+      "canyon: ˈkænjən vs ˈkænɪən",
+      "genius: ˈdʒiːnjəs vs ˈdʒiːnɪəs",
+      "failures: ˈfeɪljərz vs ˈfeɪlɪrz",
+      "sanyo: ˈsɑːnjoʊ vs ˈsænɪˌoʊ"
+    ]
+  },
+  {
+    "pattern": "∅→i",
+    "count": 7,
+    "examples": [
+      "really: ˈrɪli vs ˈriəli",
+      "ideal: aɪˈdiːl vs aɪˈdiəl",
+      "initiative: ˌɪˈnɪʃətɪv vs ɪˈnɪʃiəˌtɪv",
+      "initiatives: ˌɪˈnɪʃətɪvz vs ɪˈnɪʃiəˌtɪvz",
+      "automobile: ˈɔːtəmoʊˌbiːl vs ˈɔːɾəməˌbiəl",
+      "aluminium: əˈluːmɪnəm vs ˌæljʊˈmɪniəm",
+      "automobiles: ˈɔːtəmoʊˌbiːlz vs ˈɔːɾəməˌbiəlz"
+    ]
+  },
+  {
+    "pattern": "ɪ→aɪ",
+    "count": 7,
+    "examples": [
+      "id: ɪd vs aɪˈdiː",
+      "lives: lɪvz vs ˈlaɪvz",
+      "diversity: dɪˈvɜrsɪti vs daɪˈvɜːsɪɾi",
+      "finances: fɪˈnænsɪz vs faɪˈnænsɪz",
+      "kinda: ˈkɪndə vs ˈkaɪndə",
+      "mic: mɪk vs ˈmaɪk",
+      "characterization: ˌkɛrəktərɪˈzeɪʃən vs ˌkærɪktərraɪˈzeɪʃən"
+    ]
+  },
+  {
+    "pattern": "i→eɪ",
+    "count": 7,
+    "examples": [
+      "friday: ˈfraɪdi vs ˈfraɪdeɪ",
+      "monday: ˈmʌndi vs ˈmʌndeɪ",
+      "tuesday: ˈtuːzdi vs ˈtuːzdeɪ",
+      "saturday: ˈsætərdi vs ˈsæɾəˌrdeɪ",
+      "wednesday: ˈwɛnzdi vs ˈwɛnzdeɪ",
+      "murray: ˈmɜri vs ˈmɜːreɪ",
+      "lafayette: ˌlɑːfiˈɛt vs ˌlæfeɪˈɛt"
+    ]
+  },
+  {
+    "pattern": "ə→oʊ",
+    "count": 7,
+    "examples": [
+      "automotive: ˌɔːtəˈmoʊtɪv vs ˌɔːɾoʊˈmoʊɾɪv",
+      "encyclopedia: ɪnˌsaɪkləˈpiːdiə vs ɛˌnsaɪkloʊˈpiːdiə",
+      "microwave: ˈmaɪkrəˌweɪv vs ˈmaɪkroʊˌweɪv",
+      "proceeds: prəˈsiːdz vs ˈproʊsiːdz",
+      "carroll: ˈkærəl vs ˈkæroʊl",
+      "tobago: təˈbeɪɡoʊ vs toʊˈbeɪɡoʊ",
+      "prototype: ˈproʊtəˌtaɪp vs ˈproʊɾoʊˌtaɪp"
+    ]
+  },
+  {
+    "pattern": "aɪ→ɪ",
+    "count": 7,
+    "examples": [
+      "wind: waɪnd vs ˈwɪnd",
+      "directories: daɪˈrɛktəriz vs dɪˈrɛktərriz",
+      "mit: ˈɛˈmaɪˈtiː vs ˈmɪt",
+      "itunes: ˈaɪˌtuːnz vs ˈɪtuːnz",
+      "vip: ˌviːˌaɪˈpiː vs ˈvɪp",
+      "italic: aɪˈtælɪk vs ɪˈtælɪk",
+      "kinase: ˈkaɪˌneɪz vs ˈkɪneɪs"
+    ]
+  },
+  {
+    "pattern": "ɛ→ɪ",
+    "count": 7,
+    "examples": [
+      "essential: ɛˈsɛnʃəl vs ɪˈsɛnʃəl",
+      "expectations: ˌɛkspɛkˈteɪʃənz vs ɛkspɪˈkteɪʃənz",
+      "connectivity: kənɛkˈtɪvɪti vs kɑːnɪˈktɪvɪɾi",
+      "essentials: ɛˈsɛnʃəlz vs ɪˈsɛnʃəlz",
+      "essentially: ɛˈsɛnʃəli vs ɪˈsɛnʃəli",
+      "tears: tɛrz vs ˈtɪrz",
+      "tear: tɛr vs ˈtɪr"
+    ]
+  },
+  {
+    "pattern": "æ→ɑː",
+    "count": 7,
+    "examples": [
+      "ghana: ˈɡænə vs ˈɡɑːnə",
+      "volkswagen: ˈvoʊlkˌswæɡən vs ˈvoʊˌlksvɑːɡən",
+      "gras: ɡræs vs ˈɡrɑːz",
+      "bras: bræs vs ˈbrɑːz",
+      "yang: jæŋ vs ˈjɑːŋ",
+      "tahoe: ˈtæhoʊ vs ˈtɑːhoʊ",
+      "bhutan: ˌbuːˈtæn vs buːˈtɑːn"
+    ]
+  },
+  {
+    "pattern": "eɪ→iː",
+    "count": 6,
+    "examples": [
+      "re: reɪ vs ˈriː",
+      "se: seɪ vs ˈsiː",
+      "fe: feɪ vs ˈfiː",
+      "eva: ˈeɪvə vs ˈiːvə",
+      "reggae: ˈrɛɡˌeɪ vs ˈrɛɡiː",
+      "mae: meɪ vs ˈmiː"
+    ]
+  },
+  {
+    "pattern": "ɛ→iː",
+    "count": 6,
+    "examples": [
+      "read: rɛd vs ˈriːd",
+      "economic: ˌɛkəˈnɑːmɪk vs ˌiːkəˈnɑːmɪk",
+      "lead: lɛd vs ˈliːd",
+      "es: ɛs vs ˈiːz",
+      "economics: ˌɛkəˈnɑːmɪks vs ˌiːkəˈnɑːmɪks",
+      "leisure: ˈlɛʒər vs ˈliːʒər"
+    ]
+  },
+  {
+    "pattern": "ɪ→iː",
+    "count": 6,
+    "examples": [
+      "details: dɪˈteɪlz vs diːˈteɪlz",
+      "detailed: dɪˈteɪld vs diːˈteɪld",
+      "detail: dɪˈteɪl vs diːˈteɪl",
+      "decrease: dɪˈkriːs vs ˈdiːkriːs",
+      "equality: ɪˈkwɑːləti vs iːˈkwɔlɪɾi",
+      "decreased: dɪˈkriːst vs ˈdiːkriːst"
+    ]
+  },
+  {
+    "pattern": "∅→n",
+    "count": 6,
+    "examples": [
+      "government: ˈɡʌvərmənt vs ˈɡʌvərnmənt",
+      "vi: vaɪ vs ˌroʊmən ˈsɪks",
+      "governments: ˈɡʌvərmənts vs ˈɡʌvərnmənts",
+      "ng: ɛŋ vs ˌɛˈndʒiː",
+      "governmental: ˈɡʌvərˌmɛntəl vs ˌɡʌvəˈrnmɛntəl",
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "∅→iː",
+    "count": 6,
+    "examples": [
+      "id: ɪd vs aɪˈdiː",
+      "est: ɛst vs ˌiːˌɛˈstiː",
+      "est: ɛst vs ˌiːˌɛˈstiː",
+      "ae: eɪ vs ˌeɪˈiː",
+      "reunion: riˈuːnjən vs ˌriːˈjuːniən",
+      "gmbh: ɡəm vs ˌdʒiːˌɛˌmbiːˈeɪtʃ"
+    ]
+  },
+  {
+    "pattern": "ʊ→uː",
+    "count": 6,
+    "examples": [
+      "schedule: ˈskɛdʒʊl vs ˈskɛdʒuːl",
+      "scheduled: ˈskɛdʒʊld vs ˈskɛdʒuːld",
+      "schedules: ˈskɛdʒʊlz vs ˈskɛdʒuːlz",
+      "scheduling: ˈskɛdʒʊlɪŋ vs ˈskɛdʒuːlɪŋ",
+      "superb: sʊˈpɜrb vs suːˈpɜːb",
+      "boulevard: ˈbʊləˌvɑːrd vs ˈbuːlɪˌvɑːrd"
+    ]
+  },
+  {
+    "pattern": "∅→g",
+    "count": 6,
+    "examples": [
+      "singapore: ˈsɪŋəˌpɔːr vs ˈsɪŋɡəˌpoːr",
+      "gnu: nuː vs ɡəˈnuː",
+      "bangladesh: ˈbæŋləˌdɛʃ vs ˌbæŋɡləˈdɛʃ",
+      "stronger: ˈstrɔːŋər vs ˈstrɔŋɡər",
+      "swingers: ˈswɪŋərz vs ˈswɪŋɡərz",
+      "wang: wæŋ vs ˈwæŋɡ"
+    ]
+  },
+  {
+    "pattern": "ɛ→∅",
+    "count": 5,
+    "examples": [
+      "feb: ˈfɛbjəˌwɛri vs ˈfɛb",
+      "secretary: ˈsɛkrəˌtɛri vs ˈsɛkrətri",
+      "mit: ˈɛˈmaɪˈtiː vs ˈmɪt",
+      "bukkake: ˌbuːˈkɑːˌkɛ vs ˈbʌkeɪk",
+      "abs: ˈeɪˈbiːˈɛs vs ˈæbz"
+    ]
+  },
+  {
+    "pattern": "ɔː→∅",
+    "count": 5,
+    "examples": [
+      "record: rəˈkɔːrd vs ˈrɛkərd",
+      "records: rəˈkɔːrdz vs ˈrɛkərdz",
+      "lawyer: ˈlɔːjər vs ˈlɔɪər",
+      "lawyers: ˈlɔːjərz vs ˈlɔɪərz",
+      "forbidden: ˈfɔːrbɪdən vs fəˈrbɪdən"
+    ]
+  },
+  {
+    "pattern": "t→∅",
+    "count": 5,
+    "examples": [
+      "st: striːt vs ˈsənt",
+      "aug: ˈɔːɡəst vs ˈɔːɡ",
+      "ieee: ˌaɪˌtrɪpləˈiː vs ˌaɪˌiːˌiːˈiː",
+      "aaa: ˌtrɪpəˈleɪ vs ˌeɪˌeɪˈeɪ",
+      "mauritius: mɔːˈrɪtiəs vs mɔːˈrɪʃəs"
+    ]
+  },
+  {
+    "pattern": "∅→ɑː",
+    "count": 5,
+    "examples": [
+      "dr: draɪv vs ˈdɑːktər",
+      "citysearch: ˈsɪtiˌsɜrtʃ vs ˈsɪɾaɪˌsɑːrtʃ",
+      "solaris: soʊˈlɛrɪs vs soʊˈlɑːrrɪs",
+      "wichita: ˈwɪtʃəˌtɔː vs ˈwɪtʃɪˌtɑːr",
+      "clara: ˈklærə vs ˈklɑːrrə"
+    ]
+  },
+  {
+    "pattern": "g→dʒ",
+    "count": 5,
+    "examples": [
+      "mg: ˌɛmɡˈiː vs ˌɛˈmdʒiː",
+      "gps: ˈɡiːpiˈɛs vs ˌdʒiːˌpiːˈɛs",
+      "reg: rɛɡ vs ˈrɛdʒ",
+      "cgi: ˌsiːɡˌiːˈaɪ vs ˌsiːˌdʒiːˈaɪ",
+      "gdp: ˈɡiːˈdiːˈpiː vs ˌdʒiːˌdiːˈpiː"
+    ]
+  },
+  {
+    "pattern": "eɪ→æ",
+    "count": 5,
+    "examples": [
+      "ap: ˌeɪˈpiː vs ˈæp",
+      "av: ˌeɪˈviː vs ˈæv",
+      "valium: ˈveɪliəm vs ˈvæliəm",
+      "abs: ˈeɪˈbiːˈɛs vs ˈæbz",
+      "gabriel: ˈɡeɪbriəl vs ˈɡæbriːəl"
+    ]
+  },
+  {
+    "pattern": "iː→ə",
+    "count": 4,
+    "examples": [
+      "de: diː vs ˈdə",
+      "ideal: aɪˈdiːl vs aɪˈdiəl",
+      "automobile: ˈɔːtəmoʊˌbiːl vs ˈɔːɾəməˌbiəl",
+      "automobiles: ˈɔːtəmoʊˌbiːlz vs ˈɔːɾəməˌbiəlz"
+    ]
+  },
+  {
+    "pattern": "ɔː→ər",
+    "count": 4,
+    "examples": [
+      "categories: ˈkætəɡˌɔːriz vs ˈkæɾɪɡərriz",
+      "category: ˈkætəɡˌɔːri vs ˈkæɾɪɡərri",
+      "korea: ˌkɔːˈriːə vs kəˈrriːə",
+      "korean: ˌkɔːˈriːən vs kəˈrriːən"
+    ]
+  },
+  {
+    "pattern": "ʌ→ɑː",
+    "count": 4,
+    "examples": [
+      "ca: kʌ vs ˈkɑː",
+      "montreal: ˌmʌntriˈɔːl vs ˌmɑːntrɪˈɔːl",
+      "thereof: ˌðɛˈrʌv vs ðɛˈrɑːv",
+      "montgomery: mɑːntɡˈʌmri vs mɑːˈntɡɑːmərri"
+    ]
+  },
+  {
+    "pattern": "s→∅",
+    "count": 4,
+    "examples": [
+      "aug: ˈɔːɡəst vs ˈɔːɡ",
+      "acc: ˌaɪˌsiːˈsiː vs ˈæk",
+      "sr: ˈsiːnjər vs ˌɛˈsɑːr",
+      "tissue: ˈtɪsˌjuː vs ˈtɪʃuː"
+    ]
+  },
+  {
+    "pattern": "ə→i",
+    "count": 4,
+    "examples": [
+      "beautiful: ˈbjuːtəfəl vs ˈbjuːɾifəl",
+      "easily: ˈiːzəli vs ˈiːzili",
+      "heavily: ˈhɛvəli vs ˈhɛvili",
+      "readily: ˈrɛdəli vs ˈrɛdili"
+    ]
+  },
+  {
+    "pattern": "i→aɪ",
+    "count": 4,
+    "examples": [
+      "multi: ˈmʌlti vs ˈmʌltaɪ",
+      "viagra: viˈæɡrə vs vaɪˈæɡrə",
+      "semi: ˈsɛmi vs ˈsɛmaɪ",
+      "citysearch: ˈsɪtiˌsɜrtʃ vs ˈsɪɾaɪˌsɑːrtʃ"
+    ]
+  },
+  {
+    "pattern": "uː→aʊ",
+    "count": 4,
+    "examples": [
+      "route: ruːt vs ˈraʊt",
+      "router: ˈruːtər vs ˈraʊɾər",
+      "routes: ruːts vs ˈraʊts",
+      "routers: ˈruːtərz vs ˈraʊɾərz"
+    ]
+  },
+  {
+    "pattern": "∅→t",
+    "count": 4,
+    "examples": [
+      "bestiality: bɛsˈtʃælɪti vs ˌbɛstɪˈælɪɾi",
+      "bankruptcy: ˈbæŋkrəpsi vs ˈbæŋkrʌptsi",
+      "benz: bɛnz vs ˈbɛnts",
+      "departmental: dɪˌpɑːrtˈmɛnəl vs dɪpɑːˈrtmɛntəl"
+    ]
+  },
+  {
+    "pattern": "ð→θ",
+    "count": 4,
+    "examples": [
+      "algorithm: ˈælɡərˌɪðəm vs ˈælɡəˌrrɪθəm",
+      "algorithms: ˈælɡərˌɪðəmz vs ˈælɡəˌrrɪθəmz",
+      "paths: pæðz vs ˈpæθs",
+      "withdrawal: wɪðˈdrɔːəl vs wɪˈθdrɔːl"
+    ]
+  },
+  {
+    "pattern": "r→∅",
+    "count": 3,
+    "examples": [
+      "feb: ˈfɛbjəˌwɛri vs ˈfɛb",
+      "ieee: ˌaɪˌtrɪpləˈiː vs ˌaɪˌiːˌiːˈiː",
+      "aaa: ˌtrɪpəˈleɪ vs ˌeɪˌeɪˈeɪ"
+    ]
+  },
+  {
+    "pattern": "i→∅",
+    "count": 3,
+    "examples": [
+      "feb: ˈfɛbjəˌwɛri vs ˈfɛb",
+      "nike: ˈnaɪki vs ˈnaɪk",
+      "miniature: ˈmɪniəˌtʃʊr vs ˈmɪnɪtʃər"
+    ]
+  },
+  {
+    "pattern": "ɜr→ɜ",
+    "count": 3,
+    "examples": [
+      "certain: ˈsɜrtən vs ˈsɜːʔn̩",
+      "certainly: ˈsɜrtənli vs ˈsɜːʔn̩li",
+      "verde: ˈvɜrdi vs ˈvɜːd"
+    ]
+  },
+  {
+    "pattern": "k→∅",
+    "count": 3,
+    "examples": [
+      "length: lɛŋkθ vs ˈlɛŋθ",
+      "strength: strɛŋkθ vs ˈstrɛŋθ",
+      "strengths: strɛŋkθs vs ˈstrɛŋθs"
+    ]
+  },
+  {
+    "pattern": "∅→m",
+    "count": 3,
+    "examples": [
+      "mm: m vs ˌɛˈmɛm",
+      "vi: vaɪ vs ˌroʊmən ˈsɪks",
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "∅→oʊ",
+    "count": 3,
+    "examples": [
+      "os: ɑːs vs ˌoʊˈɛs",
+      "vi: vaɪ vs ˌroʊmən ˈsɪks",
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "ɜr→ər",
+    "count": 3,
+    "examples": [
+      "amateur: ˈæməˌtɜr vs ˈæmətʃər",
+      "advertisement: ædˈvɜrtəzmənt vs ˌædvəˈrtaɪzmənt",
+      "cingular: ˌsɪnɡuːˌlɜr vs ˈsɪŋɡjʊlər"
+    ]
+  },
+  {
+    "pattern": "ɑː→∅",
+    "count": 3,
+    "examples": [
+      "particularly: ˌpɑːrˈtɪkjələrli vs pəˈrtɪkjʊlərli",
+      "urls: ˈjuːˈɑːˈrɛlz vs ˈɜːlz",
+      "laos: ˈlɑːoʊs vs ˈlaʊz"
+    ]
+  },
+  {
+    "pattern": "ɪ→∅",
+    "count": 3,
+    "examples": [
+      "louis: ˈluːɪs vs ˈluːi",
+      "ieee: ˌaɪˌtrɪpləˈiː vs ˌaɪˌiːˌiːˈiː",
+      "aaa: ˌtrɪpəˈleɪ vs ˌeɪˌeɪˈeɪ"
+    ]
+  },
+  {
+    "pattern": "j→ɔɪ",
+    "count": 3,
+    "examples": [
+      "lawyer: ˈlɔːjər vs ˈlɔɪər",
+      "lawyers: ˈlɔːjərz vs ˈlɔɪərz",
+      "toyota: toʊˈjoʊtə vs tɔɪˈoʊɾə"
+    ]
+  },
+  {
+    "pattern": "uː→r",
+    "count": 3,
+    "examples": [
+      "euro: ˈjuːroʊ vs ˈjʊrroʊ",
+      "euros: ˈjuːˌroʊz vs ˈjʊrroʊz",
+      "guru: ˈɡuːˌruː vs ˈɡjʊrruː"
+    ]
+  },
+  {
+    "pattern": "∅→æ",
+    "count": 3,
+    "examples": [
+      "caribbean: kərˈɪbiən vs ˌkærəˈbiən",
+      "aruba: ərˈuːbə vs æˈruːbə",
+      "mariah: mərˈaɪə vs mæˈraɪə"
+    ]
+  },
+  {
+    "pattern": "aɪ→i",
+    "count": 3,
+    "examples": [
+      "alumni: əˈlʌmˌnaɪ vs əˈlʌmni",
+      "dui: ˈdiːˈjuːˈaɪ vs ˈduːi",
+      "ira: ˈaɪrə vs ˈiərə"
+    ]
+  },
+  {
+    "pattern": "h→∅",
+    "count": 3,
+    "examples": [
+      "birmingham: ˈbɜrmɪŋˌhæm vs ˈbɜːmɪˌŋæm",
+      "nottingham: ˈnɑːtɪŋˌhæm vs ˈnɑːɾɪˌŋæm",
+      "southampton: ˌsaʊθˈhæmptən vs saʊˈθæmptən"
+    ]
+  },
+  {
+    "pattern": "ʌ→ʊ",
+    "count": 3,
+    "examples": [
+      "putting: ˈpʌtɪŋ vs ˈpʊɾɪŋ",
+      "muslim: ˈmʌzləm vs ˈmʊzlɪm",
+      "muslims: ˈmʌzləmz vs ˈmʊzlɪmz"
+    ]
+  },
+  {
+    "pattern": "∅→s",
+    "count": 3,
+    "examples": [
+      "vi: vaɪ vs ˌroʊmən ˈsɪks",
+      "sh: ʃ vs ˌɛˈseɪtʃ",
+      "absorption: əbˈzɔːrpʃən vs əˈbsoːrpʃən"
+    ]
+  },
+  {
+    "pattern": "uː→∅",
+    "count": 3,
+    "examples": [
+      "jr: ˈdʒuːnjər vs ˌdʒeɪˈɑːr",
+      "ul: ˈjuːˈɛl vs ˈʊl",
+      "urls: ˈjuːˈɑːˈrɛlz vs ˈɜːlz"
+    ]
+  },
+  {
+    "pattern": "iː→ɛ",
+    "count": 3,
+    "examples": [
+      "sr: ˈsiːnjər vs ˌɛˈsɑːr",
+      "epa: ˌiːˌpiːˈeɪ vs ˈɛpə",
+      "meta: ˈmiːtə vs ˈmɛɾə"
+    ]
+  },
+  {
+    "pattern": "∅→eɪ",
+    "count": 3,
+    "examples": [
+      "sh: ʃ vs ˌɛˈseɪtʃ",
+      "ai: aɪ vs ˌeɪˈaɪ",
+      "gmbh: ɡəm vs ˌdʒiːˌɛˌmbiːˈeɪtʃ"
+    ]
+  },
+  {
+    "pattern": "∅→h",
+    "count": 3,
+    "examples": [
+      "juan: wɑːn vs ˈhwɑːn",
+      "herbal: ˈɜrbəl vs ˈhɜːbəl",
+      "kazakhstan: ˌkɑːzɑːkˈstɑːn vs ˌkæzəˈkhstɑːn"
+    ]
+  },
+  {
+    "pattern": "i→j",
+    "count": 3,
+    "examples": [
+      "reunion: riˈuːnjən vs ˌriːˈjuːniən",
+      "subsidiary: səbˈsɪdiˌɛri vs sʌˈbsɪdjərri",
+      "subsidiaries: səbˈsɪdiˌɛriz vs sʌˈbsɪdjərriz"
+    ]
+  },
+  {
+    "pattern": "eɪ→aɪ",
+    "count": 3,
+    "examples": [
+      "wy: weɪ vs ˈwaɪ",
+      "uruguay: ˈjɜrəɡˌweɪ vs ˈjʊrruːˌɡwaɪ",
+      "paraguay: ˈpɛrəɡˌweɪ vs ˈpærəˌɡwaɪ"
+    ]
+  },
+  {
+    "pattern": "∅→d",
+    "count": 3,
+    "examples": [
+      "windsor: ˈwɪnzər vs ˈwɪndsər",
+      "wm: ˈwɪljəm vs ˌdʌbəˌljuːˈɛm",
+      "graduated: ˈɡrædʒuːˌeɪtɪd vs ˈɡrædjuːˌeɪɾɪd"
+    ]
+  },
+  {
+    "pattern": "θ→ð",
+    "count": 2,
+    "examples": [
+      "without: wɪˈθaʊt vs wɪˈðaʊt",
+      "luther: ˈluːθər vs ˈluːðər"
+    ]
+  },
+  {
+    "pattern": "w→∅",
+    "count": 2,
+    "examples": [
+      "feb: ˈfɛbjəˌwɛri vs ˈfɛb",
+      "antigua: ænˈtiːɡwə vs æˈntiːɡə"
+    ]
+  },
+  {
+    "pattern": "iː→n",
+    "count": 2,
+    "examples": [
+      "st: striːt vs ˈsənt",
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "t→ː",
+    "count": 2,
+    "examples": [
+      "certain: ˈsɜrtən vs ˈsɜːʔn̩",
+      "certainly: ˈsɜrtənli vs ˈsɜːʔn̩li"
+    ]
+  },
+  {
+    "pattern": "ə→ʔ",
+    "count": 2,
+    "examples": [
+      "certain: ˈsɜrtən vs ˈsɜːʔn̩",
+      "certainly: ˈsɜrtənli vs ˈsɜːʔn̩li"
+    ]
+  },
+  {
+    "pattern": "∅→̩",
+    "count": 2,
+    "examples": [
+      "certain: ˈsɜrtən vs ˈsɜːʔn̩",
+      "certainly: ˈsɜrtənli vs ˈsɜːʔn̩li"
+    ]
+  },
+  {
+    "pattern": "ʌ→æ",
+    "count": 2,
+    "examples": [
+      "paypal: ˈpeɪˌpʌl vs ˈpeɪpæl",
+      "qatar: ˌkʌˈtɑːr vs ˈkæɾɑːr"
+    ]
+  },
+  {
+    "pattern": "h→i",
+    "count": 2,
+    "examples": [
+      "vehicle: ˈviːhɪkəl vs ˈviəkəl",
+      "vehicles: ˈviːhɪkəlz vs ˈviəkəlz"
+    ]
+  },
+  {
+    "pattern": "ʃ→s",
+    "count": 2,
+    "examples": [
+      "species: ˈspiːʃiz vs ˈspiːsiːz",
+      "sri: ʃriː vs ˈsriː"
+    ]
+  },
+  {
+    "pattern": "t→iː",
+    "count": 2,
+    "examples": [
+      "ct: kɔːrt vs ˌsiːˈtiː",
+      "mt: maʊnt vs ˌɛˈmtiː"
+    ]
+  },
+  {
+    "pattern": "s→æ",
+    "count": 2,
+    "examples": [
+      "acc: ˌaɪˌsiːˈsiː vs ˈæk",
+      "acm: ˌeɪˌsiːˈɛm vs ˈækəm"
+    ]
+  },
+  {
+    "pattern": "iː→k",
+    "count": 2,
+    "examples": [
+      "acc: ˌaɪˌsiːˈsiː vs ˈæk",
+      "acm: ˌeɪˌsiːˈɛm vs ˈækəm"
+    ]
+  },
+  {
+    "pattern": "eɪ→ɛ",
+    "count": 2,
+    "examples": [
+      "res: reɪz vs ˈrɛz",
+      "ln: leɪn vs ˌɛˈlɛn"
+    ]
+  },
+  {
+    "pattern": "eɪ→ɑː",
+    "count": 2,
+    "examples": [
+      "ba: ˌbiːˈeɪ vs ˈbɑː",
+      "grenada: ɡrɪˈneɪdə vs ɡrɛˈnɑːdə"
+    ]
+  },
+  {
+    "pattern": "∅→uː",
+    "count": 2,
+    "examples": [
+      "valuable: ˈvæljəbəl vs ˈvæljuːəbəl",
+      "wm: ˈwɪljəm vs ˌdʌbəˌljuːˈɛm"
+    ]
+  },
+  {
+    "pattern": "j→ɑː",
+    "count": 2,
+    "examples": [
+      "jr: ˈdʒuːnjər vs ˌdʒeɪˈɑːr",
+      "sr: ˈsiːnjər vs ˌɛˈsɑːr"
+    ]
+  },
+  {
+    "pattern": "oʊ→∅",
+    "count": 2,
+    "examples": [
+      "toyota: toʊˈjoʊtə vs tɔɪˈoʊɾə",
+      "notre: ˈnoʊtrə vs ˈnɑːɾər"
+    ]
+  },
+  {
+    "pattern": "aɪ→ər",
+    "count": 2,
+    "examples": [
+      "inquiry: ˌɪnˈkwaɪˌriː vs ˈɪŋkwərri",
+      "inquiries: ˌɪnˈkwaɪəriz vs ˈɪŋkwərriz"
+    ]
+  },
+  {
+    "pattern": "ɑː→eɪ",
+    "count": 2,
+    "examples": [
+      "bukkake: ˌbuːˈkɑːˌkɛ vs ˈbʌkeɪk",
+      "italiano: ˌɪtɑːliˈɑːnoʊ vs ɪˈteɪliˈɑːnoʊ"
+    ]
+  },
+  {
+    "pattern": "ə→l",
+    "count": 2,
+    "examples": [
+      "blvd: ˈbʊləˌvɑːrd vs ˌbiːˌɛˌlviːˈdiː",
+      "solely: ˈsoʊəli vs ˈsoʊlli"
+    ]
+  },
+  {
+    "pattern": "d→iː",
+    "count": 2,
+    "examples": [
+      "blvd: ˈbʊləˌvɑːrd vs ˌbiːˌɛˌlviːˈdiː",
+      "lb: paʊnd vs ˌɛˈlbiː"
+    ]
+  },
+  {
+    "pattern": "ɔː→aʊ",
+    "count": 2,
+    "examples": [
+      "saudi: ˈsɔːdi vs ˈsaʊdi",
+      "audi: ˈɔːdi vs ˈaʊdi"
+    ]
+  },
+  {
+    "pattern": "p→∅",
+    "count": 2,
+    "examples": [
+      "ieee: ˌaɪˌtrɪpləˈiː vs ˌaɪˌiːˌiːˈiː",
+      "aaa: ˌtrɪpəˈleɪ vs ˌeɪˌeɪˈeɪ"
+    ]
+  },
+  {
+    "pattern": "ə→iː",
+    "count": 2,
+    "examples": [
+      "ieee: ˌaɪˌtrɪpləˈiː vs ˌaɪˌiːˌiːˈiː",
+      "helena: ˈhɛlənə vs hɛˈliːnə"
+    ]
+  },
+  {
+    "pattern": "ʃ→tʃ",
+    "count": 2,
+    "examples": [
+      "sh: ʃ vs ˌɛˈseɪtʃ",
+      "michel: mɪˈʃɛl vs ˈmɪtʃəl"
+    ]
+  },
+  {
+    "pattern": "ɪ→eɪ",
+    "count": 2,
+    "examples": [
+      "decor: dɪˈkɔːr vs deɪˈkɔːr",
+      "webpage: ˈwɛbpɪdʒ vs ˈwɛbpeɪdʒ"
+    ]
+  },
+  {
+    "pattern": "∅→dʒ",
+    "count": 2,
+    "examples": [
+      "ng: ɛŋ vs ˌɛˈndʒiː",
+      "gmbh: ɡəm vs ˌdʒiːˌɛˌmbiːˈeɪtʃ"
+    ]
+  },
+  {
+    "pattern": "ɛ→eɪ",
+    "count": 2,
+    "examples": [
+      "omega: oʊˈmɛɡə vs oʊˈmeɪɡə",
+      "eh: ɛ vs ˈeɪ"
+    ]
+  },
+  {
+    "pattern": "r→ː",
+    "count": 2,
+    "examples": [
+      "luxembourg: ˈlʌksəmˌbɔːrɡ vs ˈlʌksəˌmbɜːɡ",
+      "nirvana: nɪrˈvɑːnə vs nɜːˈvɑːnə"
+    ]
+  },
+  {
+    "pattern": "aʊ→oʊ",
+    "count": 2,
+    "examples": [
+      "bow: baʊ vs ˈboʊ",
+      "aus: aʊz vs ˈoʊz"
+    ]
+  },
+  {
+    "pattern": "ə→ɔ",
+    "count": 2,
+    "examples": [
+      "monroe: mənˈroʊ vs ˈmɔnroʊ",
+      "edmonton: ˈɛdməntən vs ˈɛdmɔntən"
+    ]
+  },
+  {
+    "pattern": "ʌ→ə",
+    "count": 2,
+    "examples": [
+      "additionally: əˈdɪʃəˌnʌli vs əˈdɪʃənəli",
+      "minolta: mɪˈnɑːlˌtʌ vs mɪˈnoʊltə"
+    ]
+  },
+  {
+    "pattern": "ɔː→ə",
+    "count": 2,
+    "examples": [
+      "saskatchewan: sæˈskætʃəˌwɔːn vs ˈsæskəˌtʃuːən",
+      "senegal: ˌsɛnəɡˈɔːl vs ˈsɛnɛɡəl"
+    ]
+  },
+  {
+    "pattern": "∅→ɾ",
+    "count": 2,
+    "examples": [
+      "veterinary: ˈvɛtrəˌnɛri vs ˈvɛɾəˌrrɪnɛri",
+      "saturn: ˈsætərn vs ˈsæɾɜːn"
+    ]
+  },
+  {
+    "pattern": "tʃ→ʃ",
+    "count": 2,
+    "examples": [
+      "intention: ˌɪnˈtɛntʃən vs ɪˈntɛnʃən",
+      "welsh: wɛltʃ vs ˈwɛlʃ"
+    ]
+  },
+  {
+    "pattern": "ɑː→oʊ",
+    "count": 2,
+    "examples": [
+      "minolta: mɪˈnɑːlˌtʌ vs mɪˈnoʊltə",
+      "eos: ˈiːɑːs vs ɪˈoʊz"
+    ]
+  },
+  {
+    "pattern": "ər→ə",
+    "count": 2,
+    "examples": [
+      "somerset: ˈsʌmərˌsɛt vs ˈsʌməˌsɛt",
+      "interference: ˌɪntərˈfɪrəns vs ˌɪntəˈfɪrəns"
+    ]
+  },
+  {
+    "pattern": "∅→w",
+    "count": 2,
+    "examples": [
+      "louise: luːˈiːz vs luːˈwiːz",
+      "qui: kiː vs ˈkwi"
+    ]
+  },
+  {
+    "pattern": "aɪ→iː",
+    "count": 2,
+    "examples": [
+      "io: ˈaɪoʊ vs ˈiːoʊ",
+      "maldives: ˈmɔːlˌdaɪvz vs mɔːˈldiːv"
+    ]
+  },
+  {
+    "pattern": "ə→ər",
+    "count": 2,
+    "examples": [
+      "reservoir: ˈrɛzəvˌwɑːr vs ˈrɛzəˌrvwɑːr",
+      "notre: ˈnoʊtrə vs ˈnɑːɾər"
+    ]
+  },
+  {
+    "pattern": "ɔː→ʊ",
+    "count": 1,
+    "examples": [
+      "your: jɔːr vs ˈjʊr"
+    ]
+  },
+  {
+    "pattern": "ɑː→ʌ",
+    "count": 1,
+    "examples": [
+      "was: wɑːz vs ˈwʌz"
+    ]
+  },
+  {
+    "pattern": "ɔː→ʌ",
+    "count": 1,
+    "examples": [
+      "because: bɪˈkɔːz vs bɪˈkʌz"
+    ]
+  },
+  {
+    "pattern": "ə→r",
+    "count": 1,
+    "examples": [
+      "february: ˈfɛbjəˌwɛri vs ˈfɛbruːˌɛri"
+    ]
+  },
+  {
+    "pattern": "r→ə",
+    "count": 1,
+    "examples": [
+      "st: striːt vs ˈsənt"
+    ]
+  },
+  {
+    "pattern": "r→k",
+    "count": 1,
+    "examples": [
+      "dr: draɪv vs ˈdɑːktər"
+    ]
+  },
+  {
+    "pattern": "aɪ→t",
+    "count": 1,
+    "examples": [
+      "dr: draɪv vs ˈdɑːktər"
+    ]
+  },
+  {
+    "pattern": "v→ər",
+    "count": 1,
+    "examples": [
+      "dr: draɪv vs ˈdɑːktər"
+    ]
+  },
+  {
+    "pattern": "ɑː→ɛ",
+    "count": 1,
+    "examples": [
+      "os: ɑːs vs ˌoʊˈɛs"
+    ]
+  },
+  {
+    "pattern": "t→tʃ",
+    "count": 1,
+    "examples": [
+      "amateur: ˈæməˌtɜr vs ˈæmətʃər"
+    ]
+  },
+  {
+    "pattern": "s→i",
+    "count": 1,
+    "examples": [
+      "louis: ˈluːɪs vs ˈluːi"
+    ]
+  },
+  {
+    "pattern": "k→s",
+    "count": 1,
+    "examples": [
+      "ct: kɔːrt vs ˌsiːˈtiː"
+    ]
+  },
+  {
+    "pattern": "ɔː→iː",
+    "count": 1,
+    "examples": [
+      "ct: kɔːrt vs ˌsiːˈtiː"
+    ]
+  },
+  {
+    "pattern": "r→t",
+    "count": 1,
+    "examples": [
+      "ct: kɔːrt vs ˌsiːˈtiː"
+    ]
+  },
+  {
+    "pattern": "m→ɛ",
+    "count": 1,
+    "examples": [
+      "mt: maʊnt vs ˌɛˈmtiː"
+    ]
+  },
+  {
+    "pattern": "aʊ→m",
+    "count": 1,
+    "examples": [
+      "mt: maʊnt vs ˌɛˈmtiː"
+    ]
+  },
+  {
+    "pattern": "n→t",
+    "count": 1,
+    "examples": [
+      "mt: maʊnt vs ˌɛˈmtiː"
+    ]
+  },
+  {
+    "pattern": "g→k",
+    "count": 1,
+    "examples": [
+      "luxury: ˈlʌɡʒəri vs ˈlʌkʃərri"
+    ]
+  },
+  {
+    "pattern": "ʒ→ʃ",
+    "count": 1,
+    "examples": [
+      "luxury: ˈlʌɡʒəri vs ˈlʌkʃərri"
+    ]
+  },
+  {
+    "pattern": "æ→eɪ",
+    "count": 1,
+    "examples": [
+      "bass: bæs vs ˈbeɪs"
+    ]
+  },
+  {
+    "pattern": "æ→h",
+    "count": 1,
+    "examples": [
+      "yeah: jæ vs ˈjɛh"
+    ]
+  },
+  {
+    "pattern": "aɪ→∅",
+    "count": 1,
+    "examples": [
+      "acc: ˌaɪˌsiːˈsiː vs ˈæk"
+    ]
+  },
+  {
+    "pattern": "d→t",
+    "count": 1,
+    "examples": [
+      "width: wɪdθ vs ˈwɪtθ"
+    ]
+  },
+  {
+    "pattern": "ʊ→ː",
+    "count": 1,
+    "examples": [
+      "yours: jʊrz vs ˈjoːrz"
+    ]
+  },
+  {
+    "pattern": "ər→∅",
+    "count": 1,
+    "examples": [
+      "comfortable: ˈkʌmfərtəbəl vs ˈkʌmftəbəl"
+    ]
+  },
+  {
+    "pattern": "j→w",
+    "count": 1,
+    "examples": [
+      "que: kjuː vs ˈkwɛ"
+    ]
+  },
+  {
+    "pattern": "uː→ɛ",
+    "count": 1,
+    "examples": [
+      "que: kjuː vs ˈkwɛ"
+    ]
+  },
+  {
+    "pattern": "ɪ→s",
+    "count": 1,
+    "examples": [
+      "mc: mɪk vs ˌɛˈmsiː"
+    ]
+  },
+  {
+    "pattern": "k→iː",
+    "count": 1,
+    "examples": [
+      "mc: mɪk vs ˌɛˈmsiː"
+    ]
+  },
+  {
+    "pattern": "v→k",
+    "count": 1,
+    "examples": [
+      "vi: vaɪ vs ˌroʊmən ˈsɪks"
+    ]
+  },
+  {
+    "pattern": "aɪ→s",
+    "count": 1,
+    "examples": [
+      "vi: vaɪ vs ˌroʊmən ˈsɪks"
+    ]
+  },
+  {
+    "pattern": "n→eɪ",
+    "count": 1,
+    "examples": [
+      "jr: ˈdʒuːnjər vs ˌdʒeɪˈɑːr"
+    ]
+  },
+  {
+    "pattern": "tʃ→ɪ",
+    "count": 1,
+    "examples": [
+      "bestiality: bɛsˈtʃælɪti vs ˌbɛstɪˈælɪɾi"
+    ]
+  },
+  {
+    "pattern": "ɛ→i",
+    "count": 1,
+    "examples": [
+      "era: ˈɛrə vs ˈiərə"
+    ]
+  },
+  {
+    "pattern": "n→s",
+    "count": 1,
+    "examples": [
+      "sr: ˈsiːnjər vs ˌɛˈsɑːr"
+    ]
+  },
+  {
+    "pattern": "j→ʃ",
+    "count": 1,
+    "examples": [
+      "tissue: ˈtɪsˌjuː vs ˈtɪʃuː"
+    ]
+  },
+  {
+    "pattern": "uː→ʌ",
+    "count": 1,
+    "examples": [
+      "bukkake: ˌbuːˈkɑːˌkɛ vs ˈbʌkeɪk"
+    ]
+  },
+  {
+    "pattern": "ʊ→iː",
+    "count": 1,
+    "examples": [
+      "blvd: ˈbʊləˌvɑːrd vs ˌbiːˌɛˌlviːˈdiː"
+    ]
+  },
+  {
+    "pattern": "l→ɛ",
+    "count": 1,
+    "examples": [
+      "blvd: ˈbʊləˌvɑːrd vs ˌbiːˌɛˌlviːˈdiː"
+    ]
+  },
+  {
+    "pattern": "ɑː→iː",
+    "count": 1,
+    "examples": [
+      "blvd: ˈbʊləˌvɑːrd vs ˌbiːˌɛˌlviːˈdiː"
+    ]
+  },
+  {
+    "pattern": "r→d",
+    "count": 1,
+    "examples": [
+      "blvd: ˈbʊləˌvɑːrd vs ˌbiːˌɛˌlviːˈdiː"
+    ]
+  },
+  {
+    "pattern": "k→g",
+    "count": 1,
+    "examples": [
+      "glasgow: ˈɡlæˌskoʊ vs ˈɡlæzɡoʊ"
+    ]
+  },
+  {
+    "pattern": "l→iː",
+    "count": 1,
+    "examples": [
+      "ieee: ˌaɪˌtrɪpləˈiː vs ˌaɪˌiːˌiːˈiː"
+    ]
+  },
+  {
+    "pattern": "d→ɾ",
+    "count": 1,
+    "examples": [
+      "thirty: ˈθɜrˌdiː vs ˈθɜːɾi"
+    ]
+  },
+  {
+    "pattern": "ŋ→iː",
+    "count": 1,
+    "examples": [
+      "ng: ɛŋ vs ˌɛˈndʒiː"
+    ]
+  },
+  {
+    "pattern": "w→oʊ",
+    "count": 1,
+    "examples": [
+      "halloween: ˌhæləˈwiːn vs ˌhæloʊˈiːn"
+    ]
+  },
+  {
+    "pattern": "p→ɛ",
+    "count": 1,
+    "examples": [
+      "lb: paʊnd vs ˌɛˈlbiː"
+    ]
+  },
+  {
+    "pattern": "aʊ→l",
+    "count": 1,
+    "examples": [
+      "lb: paʊnd vs ˌɛˈlbiː"
+    ]
+  },
+  {
+    "pattern": "n→b",
+    "count": 1,
+    "examples": [
+      "lb: paʊnd vs ˌɛˈlbiː"
+    ]
+  },
+  {
+    "pattern": "eɪ→i",
+    "count": 1,
+    "examples": [
+      "zimbabwe: zɪmˈbɑːbweɪ vs zɪˈmbɑːbwi"
+    ]
+  },
+  {
+    "pattern": "l→eɪ",
+    "count": 1,
+    "examples": [
+      "aaa: ˌtrɪpəˈleɪ vs ˌeɪˌeɪˈeɪ"
+    ]
+  },
+  {
+    "pattern": "ə→ɔː",
+    "count": 1,
+    "examples": [
+      "authentic: əˈθɛntɪk vs ɔːˈθɛntɪk"
+    ]
+  },
+  {
+    "pattern": "∅→z",
+    "count": 1,
+    "examples": [
+      "louisville: ˈluːiˌvɪl vs ˈluːiˌzvɪl"
+    ]
+  },
+  {
+    "pattern": "t→d",
+    "count": 1,
+    "examples": [
+      "faced: feɪst vs ˈfeɪsd"
+    ]
+  },
+  {
+    "pattern": "ɔː→ɜ",
+    "count": 1,
+    "examples": [
+      "luxembourg: ˈlʌksəmˌbɔːrɡ vs ˈlʌksəˌmbɜːɡ"
+    ]
+  },
+  {
+    "pattern": "ʒ→dʒ",
+    "count": 1,
+    "examples": [
+      "beijing: ˌbeɪˈʒɪŋ vs beɪˈdʒɪŋ"
+    ]
+  },
+  {
+    "pattern": "ɛ→r",
+    "count": 1,
+    "examples": [
+      "solaris: soʊˈlɛrɪs vs soʊˈlɑːrrɪs"
+    ]
+  },
+  {
+    "pattern": "ʊ→ʌ",
+    "count": 1,
+    "examples": [
+      "scsi: ˈskʊˌziː vs ˈskʌzi"
+    ]
+  },
+  {
+    "pattern": "tʃ→t",
+    "count": 1,
+    "examples": [
+      "christianity: ˌkrɪstʃiˈænɪti vs ˌkrɪstɪˈænɪɾi"
+    ]
+  },
+  {
+    "pattern": "ə→j",
+    "count": 1,
+    "examples": [
+      "lithuania: ˌlɪθəˈweɪniə vs ˌlɪθjuːˈeɪniə"
+    ]
+  },
+  {
+    "pattern": "ə→o",
+    "count": 1,
+    "examples": [
+      "extraordinary: ˌɛkstrəˈɔːrdəˌnɛri vs ɛˈkstroːrdɪˌnɛri"
+    ]
+  },
+  {
+    "pattern": "s→k",
+    "count": 1,
+    "examples": [
+      "celtic: ˈsɛltɪk vs ˈkɛltɪk"
+    ]
+  },
+  {
+    "pattern": "t→ər",
+    "count": 1,
+    "examples": [
+      "veterinary: ˈvɛtrəˌnɛri vs ˈvɛɾəˌrrɪnɛri"
+    ]
+  },
+  {
+    "pattern": "uː→k",
+    "count": 1,
+    "examples": [
+      "tucson: ˈtuːˌsɑːn vs ˈtʌksən"
+    ]
+  },
+  {
+    "pattern": "ɔː→æ",
+    "count": 1,
+    "examples": [
+      "wal: wɔːl vs ˈwæl"
+    ]
+  },
+  {
+    "pattern": "oʊ→ʌ",
+    "count": 1,
+    "examples": [
+      "slovakia: ˌsloʊˈvɑːˌkiːə vs slʌˈvækiə"
+    ]
+  },
+  {
+    "pattern": "g→iː",
+    "count": 1,
+    "examples": [
+      "gmbh: ɡəm vs ˌdʒiːˌɛˌmbiːˈeɪtʃ"
+    ]
+  },
+  {
+    "pattern": "∅→b",
+    "count": 1,
+    "examples": [
+      "gmbh: ɡəm vs ˌdʒiːˌɛˌmbiːˈeɪtʃ"
+    ]
+  },
+  {
+    "pattern": "∅→tʃ",
+    "count": 1,
+    "examples": [
+      "gmbh: ɡəm vs ˌdʒiːˌɛˌmbiːˈeɪtʃ"
+    ]
+  },
+  {
+    "pattern": "∅→l",
+    "count": 1,
+    "examples": [
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "∅→v",
+    "count": 1,
+    "examples": [
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "ʃ→ə",
+    "count": 1,
+    "examples": [
+      "xi: ʃiː vs ˌroʊmən ɪˈlɛvən"
+    ]
+  },
+  {
+    "pattern": "ʃ→ɾ",
+    "count": 1,
+    "examples": [
+      "consortium: kənˈsɔːrʃiəm vs kəˈnsɔːrɾiəm"
+    ]
+  },
+  {
+    "pattern": "ɔː→r",
+    "count": 1,
+    "examples": [
+      "wichita: ˈwɪtʃəˌtɔː vs ˈwɪtʃɪˌtɑːr"
+    ]
+  },
+  {
+    "pattern": "h→eɪ",
+    "count": 1,
+    "examples": [
+      "hz: hɜrtz vs ˌeɪˈtʃziː"
+    ]
+  },
+  {
+    "pattern": "ɜr→tʃ",
+    "count": 1,
+    "examples": [
+      "hz: hɜrtz vs ˌeɪˈtʃziː"
+    ]
+  },
+  {
+    "pattern": "t→z",
+    "count": 1,
+    "examples": [
+      "hz: hɜrtz vs ˌeɪˈtʃziː"
+    ]
+  },
+  {
+    "pattern": "z→iː",
+    "count": 1,
+    "examples": [
+      "hz: hɜrtz vs ˌeɪˈtʃziː"
+    ]
+  },
+  {
+    "pattern": "ɑː→ər",
+    "count": 1,
+    "examples": [
+      "belarus: bɛˈlɑːrəs vs ˌbɛləˈrruːs"
+    ]
+  },
+  {
+    "pattern": "w→v",
+    "count": 1,
+    "examples": [
+      "volkswagen: ˈvoʊlkˌswæɡən vs ˈvoʊˌlksvɑːɡən"
+    ]
+  },
+  {
+    "pattern": "i→ɛ",
+    "count": 1,
+    "examples": [
+      "ecological: ikəˈlɑːdʒɪkəl vs ˌɛkəˈlɑːdʒɪkəl"
+    ]
+  },
+  {
+    "pattern": "ɛ→ɑː",
+    "count": 1,
+    "examples": [
+      "envelope: ˈɛnvəˌloʊp vs ˈɑːnvəˌloʊp"
+    ]
+  },
+  {
+    "pattern": "∅→ɔː",
+    "count": 1,
+    "examples": [
+      "aurora: ərˈɔːrə vs ɔːˈroːrə"
+    ]
+  },
+  {
+    "pattern": "ər→o",
+    "count": 1,
+    "examples": [
+      "aurora: ərˈɔːrə vs ɔːˈroːrə"
+    ]
+  },
+  {
+    "pattern": "ə→ɾ",
+    "count": 1,
+    "examples": [
+      "mediterranean: ˌmɛdətərˈeɪniən vs ˌmɛdɪɾɪˈreɪniən"
+    ]
+  },
+  {
+    "pattern": "t→ɪ",
+    "count": 1,
+    "examples": [
+      "mediterranean: ˌmɛdətərˈeɪniən vs ˌmɛdɪɾɪˈreɪniən"
+    ]
+  },
+  {
+    "pattern": "d→∅",
+    "count": 1,
+    "examples": [
+      "lindsay: ˈlɪndzi vs ˈlɪnzi"
+    ]
+  },
+  {
+    "pattern": "ʌ→ɪ",
+    "count": 1,
+    "examples": [
+      "kilometers: kəˈlɑːˌmʌtərz vs kɪˈlɑːmɪɾərz"
+    ]
+  },
+  {
+    "pattern": "ʊ→∅",
+    "count": 1,
+    "examples": [
+      "miniature: ˈmɪniəˌtʃʊr vs ˈmɪnɪtʃər"
+    ]
+  },
+  {
+    "pattern": "t→ɜ",
+    "count": 1,
+    "examples": [
+      "saturn: ˈsætərn vs ˈsæɾɜːn"
+    ]
+  },
+  {
+    "pattern": "b→ɜ",
+    "count": 1,
+    "examples": [
+      "bloomberg: ˈbluːmbərɡ vs ˈbluːmɜːɡ"
+    ]
+  },
+  {
+    "pattern": "i→ʃ",
+    "count": 1,
+    "examples": [
+      "mauritius: mɔːˈrɪtiəs vs mɔːˈrɪʃəs"
+    ]
+  },
+  {
+    "pattern": "d→ː",
+    "count": 1,
+    "examples": [
+      "verde: ˈvɜrdi vs ˈvɜːd"
+    ]
+  },
+  {
+    "pattern": "i→d",
+    "count": 1,
+    "examples": [
+      "verde: ˈvɜrdi vs ˈvɜːd"
+    ]
+  },
+  {
+    "pattern": "w→b",
+    "count": 1,
+    "examples": [
+      "wm: ˈwɪljəm vs ˌdʌbəˌljuːˈɛm"
+    ]
+  },
+  {
+    "pattern": "w→ʊ",
+    "count": 1,
+    "examples": [
+      "rwanda: rəˈwɑːndə vs rʊˈændə"
+    ]
+  },
+  {
+    "pattern": "ɛ→ʊ",
+    "count": 1,
+    "examples": [
+      "ul: ˈjuːˈɛl vs ˈʊl"
+    ]
+  },
+  {
+    "pattern": "aʊ→uː",
+    "count": 1,
+    "examples": [
+      "wound: waʊnd vs ˈwuːnd"
+    ]
+  },
+  {
+    "pattern": "r→ɜ",
+    "count": 1,
+    "examples": [
+      "urls: ˈjuːˈɑːˈrɛlz vs ˈɜːlz"
+    ]
+  },
+  {
+    "pattern": "ɛ→ː",
+    "count": 1,
+    "examples": [
+      "urls: ˈjuːˈɑːˈrɛlz vs ˈɜːlz"
+    ]
+  },
+  {
+    "pattern": "ɪ→ɜ",
+    "count": 1,
+    "examples": [
+      "nirvana: nɪrˈvɑːnə vs nɜːˈvɑːnə"
+    ]
+  },
+  {
+    "pattern": "æ→r",
+    "count": 1,
+    "examples": [
+      "clara: ˈklærə vs ˈklɑːrrə"
+    ]
+  },
+  {
+    "pattern": "dʒ→j",
+    "count": 1,
+    "examples": [
+      "graduated: ˈɡrædʒuːˌeɪtɪd vs ˈɡrædjuːˌeɪɾɪd"
+    ]
+  },
+  {
+    "pattern": "eɪ→∅",
+    "count": 1,
+    "examples": [
+      "acm: ˌeɪˌsiːˈɛm vs ˈækəm"
+    ]
+  },
+  {
+    "pattern": "z→o",
+    "count": 1,
+    "examples": [
+      "absorption: əbˈzɔːrpʃən vs əˈbsoːrpʃən"
+    ]
+  },
+  {
+    "pattern": "l→∅",
+    "count": 1,
+    "examples": [
+      "stockholm: ˈstɑːkˌhoʊlm vs ˈstɑːkhoʊm"
+    ]
+  },
+  {
+    "pattern": "iː→eɪ",
+    "count": 1,
+    "examples": [
+      "sega: ˈsiːɡə vs ˈseɪɡə"
+    ]
+  },
+  {
+    "pattern": "aɪ→eɪ",
+    "count": 1,
+    "examples": [
+      "meyer: ˈmaɪər vs ˈmeɪər"
+    ]
+  },
+  {
+    "pattern": "t→ɑː",
+    "count": 1,
+    "examples": [
+      "notre: ˈnoʊtrə vs ˈnɑːɾər"
+    ]
+  },
+  {
+    "pattern": "r→ɾ",
+    "count": 1,
+    "examples": [
+      "notre: ˈnoʊtrə vs ˈnɑːɾər"
+    ]
+  },
+  {
+    "pattern": "z→∅",
+    "count": 1,
+    "examples": [
+      "maldives: ˈmɔːlˌdaɪvz vs mɔːˈldiːv"
+    ]
+  },
+  {
+    "pattern": "k→x",
+    "count": 1,
+    "examples": [
+      "liechtenstein: ˈlɪktənˌstaɪn vs ˈlɪxtəˌnstaɪn"
+    ]
+  },
+  {
+    "pattern": "oʊ→aʊ",
+    "count": 1,
+    "examples": [
+      "laos: ˈlɑːoʊs vs ˈlaʊz"
+    ]
+  }
+]
